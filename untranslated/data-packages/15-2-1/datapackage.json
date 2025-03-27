@@ -12,7 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "860",
+                "1418",
+                "861",
+                "862",
+                "3816",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above ground biomass in forest",
+                "Forest area net change rate",
+                "Forest area with a long-term management plan",
+                "Forest area within legally established protected area",
+                "Forest certified under an independently verified certification scheme",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tons per hectare",
+                "Percentage",
+                "% of forest area",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

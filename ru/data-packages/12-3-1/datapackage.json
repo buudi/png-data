@@ -12,8 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6726",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food waste, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg per capita",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

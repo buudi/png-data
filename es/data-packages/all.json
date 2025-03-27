@@ -64,6 +64,120 @@
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
+      "path": "17-16-1/data.csv",
+      "name": "17-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6100",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Progress in multi-stakeholder development effectiveness monitoring framework in support of SDGs, recipients",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
+    },
+    {
+      "path": "12-2-1/data.csv",
+      "name": "12-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "409",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Material footprint, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tons per capita",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+    },
+    {
       "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
@@ -199,6 +313,63 @@
         ]
       },
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
+      "path": "15-b-1/data.csv",
+      "name": "15-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "910",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance for biodiversity, total, by recipient",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million 2022 US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "7-1-1/data.csv",
@@ -376,6 +547,120 @@
         ]
       },
       "title": "Proportion of population covered by a mobile network, by technology"
+    },
+    {
+      "path": "11-a-1/data.csv",
+      "name": "11-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4251",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National urban policies/regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
+    },
+    {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "462",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Resources made available to strengthen statistical capacities in developing countries",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "5-6-1/data.csv",
@@ -614,6 +899,177 @@
         ]
       },
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "16-2-3/data.csv",
+      "name": "16-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "929",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population who experienced sexual violence by age 18",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of female aged 18-29",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+    },
+    {
+      "path": "14-1-1/data.csv",
+      "name": "14-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3852",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chlorophyll-a deviations, remote sensing",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+    },
+    {
+      "path": "15-9-1/data.csv",
+      "name": "15-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2949",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Biodiversity Strategy and Action Plans, national target reflecting Aichi Biodiversity Target 2 exists, but moving away from it",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
     },
     {
       "path": "8-a-1/data.csv",
@@ -903,6 +1359,293 @@
       "title": "Neonatal mortality rate"
     },
     {
+      "path": "17-4-1/data.csv",
+      "name": "17-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "317",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Debt service",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of exports of goods, services and primary income",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Debt service as a proportion of exports of goods and services"
+    },
+    {
+      "path": "17-12-1/data.csv",
+      "name": "17-12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2093",
+                "2094",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most-favoured nation, average tariff applied by developed countries, all products",
+                "Preferential rate, average tariff applied by developed countries, all products",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+    },
+    {
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "871",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of intentional homicide",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+    },
+    {
+      "path": "17-15-1/data.csv",
+      "name": "17-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2085",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of the use of country-led result framework, by recipient of development cooperation",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+    },
+    {
+      "path": "10-c-1/data.csv",
+      "name": "10-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "853",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Remittance costs as a proportion of the amount remitted"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -1078,6 +1821,120 @@
       "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
+      "path": "11-b-1/data.csv",
+      "name": "11-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1170",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+    },
+    {
+      "path": "15-5-1/data.csv",
+      "name": "15-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "520",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Red list index total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Red List Index"
+    },
+    {
       "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
@@ -1167,6 +2024,63 @@
       "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5360",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greenhouse gas (GHG) emissions without LULUCF",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million tons of CO2 equivalent",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
+    },
+    {
       "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
@@ -1222,6 +2136,134 @@
         ]
       },
       "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
+      "path": "15-2-1/data.csv",
+      "name": "15-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "860",
+                "1418",
+                "861",
+                "862",
+                "3816",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above ground biomass in forest",
+                "Forest area net change rate",
+                "Forest area with a long-term management plan",
+                "Forest area within legally established protected area",
+                "Forest certified under an independently verified certification scheme",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tons per hectare",
+                "Percentage",
+                "% of forest area",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Progress towards sustainable forest management"
+    },
+    {
+      "path": "15-8-1/data.csv",
+      "name": "15-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2783",
+                "3088",
+                "5585",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",
+                "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity",
+                "National Biodiversity Strategy and Action Plans, national target reflecting Aichi Biodiversity Target 2 exists",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
       "path": "9-1-2/data.csv",
@@ -1287,6 +2329,63 @@
       "title": "Passenger and freight volumes, by mode of transport"
     },
     {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "927",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unsentenced detainees (Pre-trial)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of prison population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
+    },
+    {
       "path": "8-4-1/data.csv",
       "name": "8-4-1",
       "profile": "tabular-data-resource",
@@ -1342,6 +2441,63 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+    },
+    {
+      "path": "16-5-2/data.csv",
+      "name": "16-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "872",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bribery incidence (business asked for bribery)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "6-b-1/data.csv",
@@ -1408,6 +2564,72 @@
       "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
+      "path": "15-6-1/data.csv",
+      "name": "15-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "869",
+                "1419",
+                "868",
+                "867",
+                "870",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA), contracting party",
+                "Leg., admin./policy framework reported through Online Reporting Sys. on Compliance of the Int. Treaty on Plant Genetic Resources for Food&Agriculture",
+                "Legislative, administrative and policy framework reported to the Access and Benefit-Sharing Clearing-House",
+                "Nagoya Protocol, country party",
+                "Reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+    },
+    {
       "path": "2-2-2/data.csv",
       "name": "2-2-2",
       "profile": "tabular-data-resource",
@@ -1463,6 +2685,122 @@
         ]
       },
       "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+    },
+    {
+      "path": "11-6-2/data.csv",
+      "name": "11-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2700",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual mean concentration of PM2.5, urban",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micrograms per m3",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+    },
+    {
+      "path": "15-4-2/data.csv",
+      "name": "15-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7280",
+                "7219",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mountain green cover index, Total - Land cover: Mountain Green Cover Index (MGCI)",
+                "Proportion of degraded mountain land, Total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
     },
     {
       "path": "6-6-1/data.csv",
@@ -1583,6 +2921,63 @@
       "title": "Manufacturing employment as a proportion of total employment"
     },
     {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "361",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Important sites for mountain biodiversity",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage by protected areas of important sites for mountain biodiversity"
+    },
+    {
       "path": "1-a-1/data.csv",
       "name": "1-a-1",
       "profile": "tabular-data-resource",
@@ -1640,6 +3035,120 @@
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
+      "path": "13-1-3/data.csv",
+      "name": "13-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1173",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national DRR strategies",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    },
+    {
+      "path": "15-1-2/data.csv",
+      "name": "15-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "363",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Important sites for terrestrial biodiversity",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+    },
+    {
       "path": "1-5-2/data.csv",
       "name": "1-5-2",
       "profile": "tabular-data-resource",
@@ -1695,6 +3204,94 @@
         ]
       },
       "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5083",
+                "5084",
+                "5085",
+                "5086",
+                "5087",
+                "5089",
+                "5088",
+                "5091",
+                "5093",
+                "5090",
+                "5506",
+                "5507",
+                "5505",
+                "5508",
+                "4232",
+                "2698",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children under 5 whose births have been registered (%)(UNICEF)",
+                "Children under 5 whose births have been registered with a civil authority",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st wealth quintile (poorest)",
+                "2nd wealth quintile",
+                "3rd wealth quintile",
+                "4th wealth quintile",
+                "5th wealth quintile (richest)",
+                "Female",
+                "Male",
+                "Rural",
+                "Total",
+                "Urban",
+                "% of children 12 to 23 months",
+                "% of children 24 to 35 months",
+                "% of children 36 to 47 months",
+                "% of children 48 to 59 months",
+                "% of children under 1",
+                "% of children under 5",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1868,6 +3465,63 @@
       "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
+      "path": "15-a-1/data.csv",
+      "name": "15-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "910",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance for biodiversity, total, by recipient",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million 2022 US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+    },
+    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -1942,6 +3596,155 @@
         ]
       },
       "title": "Under‑5 mortality rate"
+    },
+    {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5411",
+                "5405",
+                "5415",
+                "5404",
+                "5406",
+                "5435",
+                "5407",
+                "5436",
+                "5409",
+                "5410",
+                "1981",
+                "5416",
+                "5418",
+                "5419",
+                "5420",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual GDP growth",
+                "Annual broad money growth",
+                "Annual inflation, consumer prices",
+                "Bank capital to assets ratio",
+                "Broad money to total reserves ratio",
+                "Cash surplus/deficit as a proportion of GDP",
+                "Current account balance",
+                "DEC alternative conversion factor",
+                "External debt stocks as a proportion of GNI",
+                "Foreign direct investment, net inflows, as a proportion of GDP",
+                "GDP growth rate (2015 US dollars, average annual)",
+                "Merchandise trade as a proportion of GDP",
+                "Portfolio investment, net",
+                "Tax revenue as a proportion of GDP",
+                "Total reserves in months of imports",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Ratio",
+                "% of GDP",
+                "In local currency unit per United States dollar",
+                "% change per annum",
+                "Balance of Payments, current United States dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "17-10-1/data.csv",
+      "name": "17-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2101",
+                "2108",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most-favoured nation, worldwide weighted tariff-average, all products",
+                "Preferential rate, weighted mean, all products",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Worldwide weighted tariff-average"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2147,6 +3950,71 @@
       "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
+      "path": "17-5-1/data.csv",
+      "name": "17-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7928",
+                "7929",
+                "7930",
+                "7931",
+                "7932",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Direct capital participation",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Fiscal/financial support",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Investment facilitation services",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Investment guarantees",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+    },
+    {
       "path": "5-5-2/data.csv",
       "name": "5-5-2",
       "profile": "tabular-data-resource",
@@ -2320,6 +4188,63 @@
         ]
       },
       "title": "Proportion of medium and high-tech industry value added in total value added"
+    },
+    {
+      "path": "17-17-1/data.csv",
+      "name": "17-17-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4014",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Public-private partnerships for infrastructure, commitment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million 2019 US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2497,6 +4422,63 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "12-c-1/data.csv",
+      "name": "12-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1895",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fossil-fuel subsidies (consumption and production)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of GDP",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -2788,6 +4770,418 @@
       "title": "Annual growth rate of real GDP per employed person"
     },
     {
+      "path": "11-5-1/data.csv",
+      "name": "11-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1159",
+                "1175",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths and missing persons attributed to disasters",
+                "Directly affected persons attributed to disasters",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "395",
+                "7247",
+                "7245",
+                "7246",
+                "7244",
+                "7248",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FDI inflows",
+                "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis",
+                "Gross receipts by developing countries of official concessional sustainable development loans",
+                "Gross receipts by developing countries of official non-concessional sustainable development loans",
+                "Gross receipts by developing countries of official sustainable development grants",
+                "Gross receipts by developing countries of private grants",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of GDP",
+                "Million US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+    },
+    {
+      "path": "12-3-1/data.csv",
+      "name": "12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6726",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food waste, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg per capita",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Food loss index and (b) food waste index"
+    },
+    {
+      "path": "12-a-1/data.csv",
+      "name": "12-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2537",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable electricity capacity, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Watts per capita",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    },
+    {
+      "path": "13-1-2/data.csv",
+      "name": "13-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1170",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+    },
+    {
+      "path": "16-5-1/data.csv",
+      "name": "16-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2169",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence rate of bribery, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+    },
+    {
+      "path": "12-4-1/data.csv",
+      "name": "12-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3918",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hazardous waste and other chemicals, average Basel/Montreal/Stockholm/Rotterdam convention compliance",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+    },
+    {
       "path": "3-3-5/data.csv",
       "name": "3-3-5",
       "profile": "tabular-data-resource",
@@ -2843,6 +5237,63 @@
         ]
       },
       "title": "Number of people requiring interventions against neglected tropical diseases"
+    },
+    {
+      "path": "10-a-1/data.csv",
+      "name": "10-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2115",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tariff lines applied to imports with zero-tariff, all products",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
     },
     {
       "path": "3-c-1/data.csv",
@@ -3030,6 +5481,122 @@
         ]
       },
       "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1159",
+                "1175",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths and missing persons attributed to disasters",
+                "Directly affected persons attributed to disasters",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "10-4-1/data.csv",
+      "name": "10-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1839",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour income share of GDP",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of GDP",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Labour share of GDP"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3597,6 +6164,63 @@
       "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2088",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic budget funded by domestic taxes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
       "path": "9-3-2/data.csv",
       "name": "9-3-2",
       "profile": "tabular-data-resource",
@@ -3711,6 +6335,65 @@
       "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "396",
+                "537",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FDI inflows",
+                "Total assistance for development (ODA+OOF+private), by recipient",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -3792,6 +6475,180 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "892",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National statistical plan under implementation",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+    },
+    {
+      "path": "11-1-1/data.csv",
+      "name": "11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "33",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban population living in slums",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of urban population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+    },
+    {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "924",
+                "926",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing countries’ and least developed countries’ share of global merchandise exports",
+                "Developing countries’ and least developed countries’ share of global services exports",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of world merchandise exports",
+                "% of world services exports",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Developing countries’ and least developed countries’ share of global exports"
+    },
+    {
       "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
@@ -3851,6 +6708,63 @@
         ]
       },
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    },
+    {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2057",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as share of original approved budget",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "1-4-1/data.csv",
@@ -4034,6 +6948,67 @@
         ]
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    },
+    {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7492",
+                "7491",
+                "7882",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
+                "Open Data Inventory (ODIN) Coverage Index",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "8-6-1/data.csv",
@@ -4363,6 +7338,180 @@
       "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "337",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed-broadband subscriptions",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100 population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3545",
+                "4540",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women's representation in parliament (from the age of eligibility), Lower Chamber or Unicameral",
+                "Young members representation in parliament (from the age of eligibility to 45), Lower Chamber or Unicameral",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio (women's share in parliament over share in total population)",
+                "Ratio (age group’s share in parliament over share in total population)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    },
+    {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1382",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disruptions to basic services attributed to disasters",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+    },
+    {
       "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
@@ -4418,6 +7567,63 @@
         ]
       },
       "title": "Researchers (in full-time equivalent) per million inhabitants"
+    },
+    {
+      "path": "16-a-1/data.csv",
+      "name": "16-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7940",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with National Human Rights Institutions in compliance with the Paris Principles",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
       "path": "7-2-1/data.csv",
@@ -4536,6 +7742,63 @@
       "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "349",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individuals using the Internet",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals using the Internet"
+    },
+    {
       "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
@@ -4591,6 +7854,63 @@
         ]
       },
       "title": "Research and development expenditure as a proportion of GDP"
+    },
+    {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2087",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Government revenue (budgetary central government)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of GDP",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total government revenue as a proportion of GDP, by source"
     },
     {
       "path": "6-5-1/data.csv",
@@ -4650,6 +7970,63 @@
       "title": "Degree of integrated water resources management"
     },
     {
+      "path": "11-5-2/data.csv",
+      "name": "11-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "913",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct economic loss attributed to disasters",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    },
+    {
       "path": "3-3-3/data.csv",
       "name": "3-3-3",
       "profile": "tabular-data-resource",
@@ -4705,6 +8082,120 @@
         ]
       },
       "title": "Malaria incidence per 1,000 population"
+    },
+    {
+      "path": "17-3-2/data.csv",
+      "name": "17-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "316",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal remittances received",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of GDP",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    },
+    {
+      "path": "15-1-1/data.csv",
+      "name": "15-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "435",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest area",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of land area",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Forest area as a proportion of total land area"
     },
     {
       "path": "3-5-1/data.csv",
@@ -4766,6 +8257,120 @@
         ]
       },
       "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    },
+    {
+      "path": "17-9-1/data.csv",
+      "name": "17-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "358",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance (gross disbursement) for technical cooperation, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million 2022 US dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+    },
+    {
+      "path": "10-7-2/data.csv",
+      "name": "10-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2957",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries migration policies (orderly, safe, regular and responsible migration and mobility), all domains",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "3-5-2/data.csv",
@@ -4950,6 +8555,123 @@
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
+      "path": "14-5-1/data.csv",
+      "name": "14-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1417",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of marine key biodiversity areas covered by protected area status",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of protected areas in relation to marine areas"
+    },
+    {
+      "path": "12-2-2/data.csv",
+      "name": "12-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "582",
+                "3150",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption intensity",
+                "Domestic material consumption, total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg per 1 USD (2015) GDP",
+                "Tons per capita",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
       "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
@@ -5062,6 +8784,63 @@
         ]
       },
       "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+    },
+    {
+      "path": "11-b-2/data.csv",
+      "name": "11-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1173",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national DRR strategies",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "1-1-1/data.csv",
@@ -5242,30 +9021,6 @@
       "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
-      "path": "11-5-2/data.csv",
-      "name": "11-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
-    },
-    {
       "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
@@ -5314,30 +9069,6 @@
       "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
     },
     {
-      "path": "13-1-2/data.csv",
-      "name": "13-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
@@ -5360,78 +9091,6 @@
         ]
       },
       "title": "Proportion of schools offering basic services, by type of service"
-    },
-    {
-      "path": "15-a-1/data.csv",
-      "name": "15-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
-    },
-    {
-      "path": "10-7-2/data.csv",
-      "name": "10-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
-    },
-    {
-      "path": "11-b-2/data.csv",
-      "name": "11-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "12-1-1/data.csv",
@@ -5530,54 +9189,6 @@
       "title": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
-      "path": "11-a-1/data.csv",
-      "name": "11-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
-    },
-    {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage by protected areas of important sites for mountain biodiversity"
-    },
-    {
       "path": "5-6-2/data.csv",
       "name": "5-6-2",
       "profile": "tabular-data-resource",
@@ -5600,78 +9211,6 @@
         ]
       },
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
-    },
-    {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
-      "path": "17-11-1/data.csv",
-      "name": "17-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Developing countries’ and least developed countries’ share of global exports"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "15-7-1/data.csv",
@@ -5720,30 +9259,6 @@
         ]
       },
       "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "11-6-1/data.csv",
@@ -5842,30 +9357,6 @@
       "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic budget funded by domestic taxes"
-    },
-    {
       "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",
@@ -5912,30 +9403,6 @@
         ]
       },
       "title": "Pro-poor public social spending"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Food loss index and (b) food waste index"
     },
     {
       "path": "9-3-1/data.csv",
@@ -6058,174 +9525,6 @@
       "title": "Financial Soundness Indicators"
     },
     {
-      "path": "17-12-1/data.csv",
-      "name": "17-12-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
-    },
-    {
-      "path": "12-a-1/data.csv",
-      "name": "12-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
-    },
-    {
-      "path": "15-1-1/data.csv",
-      "name": "15-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Forest area as a proportion of total land area"
-    },
-    {
-      "path": "15-9-1/data.csv",
-      "name": "15-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
-    },
-    {
-      "path": "15-6-1/data.csv",
-      "name": "15-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -6272,30 +9571,6 @@
         ]
       },
       "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
-      "path": "11-6-2/data.csv",
-      "name": "11-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "12-6-1/data.csv",
@@ -6442,30 +9717,6 @@
       "title": "CO2 emission per unit of value added"
     },
     {
-      "path": "15-b-1/data.csv",
-      "name": "15-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
-    },
-    {
       "path": "3-d-2/data.csv",
       "name": "3-d-2",
       "profile": "tabular-data-resource",
@@ -6488,30 +9739,6 @@
         ]
       },
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
-    },
-    {
-      "path": "17-18-3/data.csv",
-      "name": "17-18-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "2-3-2/data.csv",
@@ -6560,30 +9787,6 @@
         ]
       },
       "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
-    },
-    {
-      "path": "12-4-1/data.csv",
-      "name": "12-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
     },
     {
       "path": "10-2-1/data.csv",
@@ -6656,30 +9859,6 @@
         ]
       },
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
-    },
-    {
-      "path": "16-9-1/data.csv",
-      "name": "16-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "15-3-1/data.csv",
@@ -6850,54 +10029,6 @@
       "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
-      "path": "17-8-1/data.csv",
-      "name": "17-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of individuals using the Internet"
-    },
-    {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
-    },
-    {
       "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",
@@ -6944,30 +10075,6 @@
         ]
       },
       "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
-    },
-    {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "16-10-1/data.csv",
@@ -7138,30 +10245,6 @@
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
-      "path": "12-c-1/data.csv",
-      "name": "12-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
-    },
-    {
       "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
@@ -7208,30 +10291,6 @@
         ]
       },
       "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
-    },
-    {
-      "path": "10-c-1/data.csv",
-      "name": "10-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "13-2-1/data.csv",
@@ -7304,150 +10363,6 @@
         ]
       },
       "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
-    },
-    {
-      "path": "14-5-1/data.csv",
-      "name": "14-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage of protected areas in relation to marine areas"
-    },
-    {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Labour share of GDP"
-    },
-    {
-      "path": "15-2-1/data.csv",
-      "name": "15-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Progress towards sustainable forest management"
-    },
-    {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
-    },
-    {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
-    },
-    {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "12-4-2/data.csv",
@@ -7546,30 +10461,6 @@
       "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
-    },
-    {
       "path": "14-4-1/data.csv",
       "name": "14-4-1",
       "profile": "tabular-data-resource",
@@ -7594,54 +10485,6 @@
       "title": "Proportion of fish stocks within biologically sustainable levels"
     },
     {
-      "path": "12-2-1/data.csv",
-      "name": "12-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "16-a-1/data.csv",
-      "name": "16-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
-    },
-    {
       "path": "16-8-1/data.csv",
       "name": "16-8-1",
       "profile": "tabular-data-resource",
@@ -7664,78 +10507,6 @@
         ]
       },
       "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
-      "path": "11-b-1/data.csv",
-      "name": "11-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
-    },
-    {
-      "path": "17-17-1/data.csv",
-      "name": "17-17-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
-    },
-    {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "14-a-1/data.csv",
@@ -7834,30 +10605,6 @@
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Macroeconomic Dashboard"
-    },
-    {
       "path": "4-c-1/data.csv",
       "name": "4-c-1",
       "profile": "tabular-data-resource",
@@ -7880,78 +10627,6 @@
         ]
       },
       "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
-    },
-    {
-      "path": "15-1-2/data.csv",
-      "name": "15-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
-    },
-    {
-      "path": "11-1-1/data.csv",
-      "name": "11-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
-    },
-    {
-      "path": "13-1-3/data.csv",
-      "name": "13-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "16-1-2/data.csv",
@@ -8002,54 +10677,6 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
     },
     {
-      "path": "16-5-2/data.csv",
-      "name": "16-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
-    },
-    {
-      "path": "15-4-2/data.csv",
-      "name": "15-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
-    },
-    {
       "path": "2-5-2/data.csv",
       "name": "2-5-2",
       "profile": "tabular-data-resource",
@@ -8096,102 +10723,6 @@
         ]
       },
       "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
-    },
-    {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
-    },
-    {
-      "path": "17-10-1/data.csv",
-      "name": "17-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Worldwide weighted tariff-average"
-    },
-    {
-      "path": "10-a-1/data.csv",
-      "name": "10-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
-    },
-    {
-      "path": "16-2-3/data.csv",
-      "name": "16-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
       "path": "10-7-3/data.csv",
@@ -8266,30 +10797,6 @@
       "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
-    },
-    {
       "path": "3-b-3/data.csv",
       "name": "3-b-3",
       "profile": "tabular-data-resource",
@@ -8360,54 +10867,6 @@
         ]
       },
       "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
-    },
-    {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
-    },
-    {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "17-19-2/data.csv",
@@ -8482,78 +10941,6 @@
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
-      "path": "15-8-1/data.csv",
-      "name": "15-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
-    },
-    {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Red List Index"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
-    },
-    {
       "path": "17-2-1/data.csv",
       "name": "17-2-1",
       "profile": "tabular-data-resource",
@@ -8626,30 +11013,6 @@
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
       "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
@@ -8672,78 +11035,6 @@
         ]
       },
       "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
-    },
-    {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total greenhouse gas emissions per year"
-    },
-    {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total government revenue as a proportion of GDP, by source"
-    },
-    {
-      "path": "17-9-1/data.csv",
-      "name": "17-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "4-1-1/data.csv",
@@ -8938,30 +11229,6 @@
       "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
-    },
-    {
       "path": "5-3-2/data.csv",
       "name": "5-3-2",
       "profile": "tabular-data-resource",
@@ -9080,30 +11347,6 @@
         ]
       },
       "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }

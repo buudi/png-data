@@ -12,8 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5411",
+                "5405",
+                "5415",
+                "5404",
+                "5406",
+                "5435",
+                "5407",
+                "5436",
+                "5409",
+                "5410",
+                "1981",
+                "5416",
+                "5418",
+                "5419",
+                "5420",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual GDP growth",
+                "Annual broad money growth",
+                "Annual inflation, consumer prices",
+                "Bank capital to assets ratio",
+                "Broad money to total reserves ratio",
+                "Cash surplus/deficit as a proportion of GDP",
+                "Current account balance",
+                "DEC alternative conversion factor",
+                "External debt stocks as a proportion of GNI",
+                "Foreign direct investment, net inflows, as a proportion of GDP",
+                "GDP growth rate (2015 US dollars, average annual)",
+                "Merchandise trade as a proportion of GDP",
+                "Portfolio investment, net",
+                "Tax revenue as a proportion of GDP",
+                "Total reserves in months of imports",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "Ratio",
+                "% of GDP",
+                "In local currency unit per United States dollar",
+                "% change per annum",
+                "Balance of Payments, current United States dollars",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

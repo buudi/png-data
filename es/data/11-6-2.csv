@@ -1,1 +1,11 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2010,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.26735
+2011,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,8.88247
+2012,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,8.98623
+2013,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.03763
+2014,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.0329
+2015,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.57879
+2016,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.36784
+2017,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.53266
+2018,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.64841
+2019,2700,"Annual mean concentration of PM2.5, urban",Micrograms per m3,9.50918

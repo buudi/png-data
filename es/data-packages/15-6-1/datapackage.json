@@ -12,12 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "869",
+                "1419",
+                "868",
+                "867",
+                "870",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA), contracting party",
+                "Leg., admin./policy framework reported through Online Reporting Sys. on Compliance of the Int. Treaty on Plant Genetic Resources for Food&Agriculture",
+                "Legislative, administrative and policy framework reported to the Access and Benefit-Sharing Clearing-House",
+                "Nagoya Protocol, country party",
+                "Reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

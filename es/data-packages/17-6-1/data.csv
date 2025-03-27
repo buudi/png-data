@@ -1,1 +1,15 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2008,337,Fixed-broadband subscriptions,Per 100 population,0.04185
+2009,337,Fixed-broadband subscriptions,Per 100 population,0.06051
+2010,337,Fixed-broadband subscriptions,Per 100 population,0.08044
+2011,337,Fixed-broadband subscriptions,Per 100 population,0.09607
+2012,337,Fixed-broadband subscriptions,Per 100 population,0.11462
+2013,337,Fixed-broadband subscriptions,Per 100 population,0.13704
+2014,337,Fixed-broadband subscriptions,Per 100 population,0.15595
+2015,337,Fixed-broadband subscriptions,Per 100 population,0.17277
+2016,337,Fixed-broadband subscriptions,Per 100 population,0.19103
+2017,337,Fixed-broadband subscriptions,Per 100 population,0.19748
+2019,337,Fixed-broadband subscriptions,Per 100 population,0.20959
+2020,337,Fixed-broadband subscriptions,Per 100 population,0.21539
+2021,337,Fixed-broadband subscriptions,Per 100 population,0.21107
+2022,337,Fixed-broadband subscriptions,Per 100 population,0.21592

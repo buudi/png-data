@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015],"Series_ID":["872"],"Series":["Bribery incidence (business asked for bribery)"],"Unit":["Percentage"],"Value":[26.42]},"edges":{"From":["Series_ID"],"To":["Unit"]}}

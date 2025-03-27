@@ -1,1 +1,9 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2010,2783,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",Yes (1)/No (0),0
+2016,2783,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",Yes (1)/No (0),0
+2020,2783,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",Yes (1)/No (0),1
+2022,2783,"Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",Yes (1)/No (0),1
+2016,3088,National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity,Yes (1)/No (0),0
+2020,3088,National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity,Yes (1)/No (0),0
+2022,3088,National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity,Yes (1)/No (0),1
+2022,5585,"National Biodiversity Strategy and Action Plans, national target reflecting Aichi Biodiversity Target 2 exists",Yes (1)/No (0),1

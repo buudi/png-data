@@ -12,12 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
           },
           {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7928",
+                "7929",
+                "7930",
+                "7931",
+                "7932",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Direct capital participation",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Fiscal/financial support",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Investment facilitation services",
+                "Number of countries with an outward investment promotion scheme which can benefit developing countries, including LDCs, Investment guarantees",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Yes (1)/No (0)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
