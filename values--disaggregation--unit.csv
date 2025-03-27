@@ -1,16 +1,119 @@
 Value,Disaggregation combinations using this value,Number of indicators
+"1: Approaches requirement, 0: Does not meet requirement; 2: Fully meets requirement",2,1
+10 = Clearly defined; 5 = Not clearly defined; 0 = N/A,2,1
+1st wealth quintile (poorest),3,2
+2015 US dollars per capita,1,1
+2nd wealth quintile,3,2
+3 = High; 2 = Moderate; 1 = Low; 0 = N/A,2,1
+3rd wealth quintile,3,2
+4th wealth quintile,3,2
+5th wealth quintile (richest),3,2
+% agricultual female population,1,1
+% agricultual male population,1,1
+% agricultual population,1,1
+% change per annum,1,1
+% change per capita per annum,1,1
+"Deaths per 1 000 live births, boys",2,1
+"Deaths per 1 000 live births, girls",2,1
+Deaths per 100 000 live births,1,1
+"Deaths per 1,000 live births",3,2
+"Female-to-male ratio, aged 15-24",1,1
+"Female-to-male ratio, aged 15-64",1,1
+"Female-to-male ratio, aged 25-54",1,1
+Female-to-male ratio,1,1
+Index,3,3
+Kg per 1 USD (2015) GDP,1,1
+"Litres per annum, female population aged 15+",1,1
+"Litres per annum, male population aged 15+",1,1
+"Litres per annum, population aged 15+",1,1
+Live births per 1 000 women (aged 10-14),1,1
+Live births per 1 000 women (aged 15-19),1,1
+Megajoules per unit of GDP in 2017 PPP,1,1
+Million 2021 US dollars,1,1
+Million 2022 US dollars,6,6
+Million passenger-km,1,1
+Million TEU,1,1
+Million ton-km,1,1
+Number of deaths,1,1
+Number,1,1
+% of children aged 1,3,1
+% of children under 5,3,3
 "% of children/household, female",1,1
 "% of children/household, male",1,1
 % of children/household,1,1
 % of employed population,1,1
+% of female aged 15-24,2,2
+% of female aged 15-49,6,3
+% of female aged 15-64,1,1
+% of female aged 15 and above,2,2
+% of female aged 25-54,1,1
+% of female labour force aged 15-24,1,1
+% of female labour force aged 15+,1,1
+% of female labour force aged 25+,1,1
+% of female labour force without disability,1,1
 % of female population with severe disabilities,1,1
+% of female population,1,1
+% of GDP (2015 USD),1,1
+% of GDP,1,1
+% of labour force aged 15-24,1,1
+% of labour force aged 15+,1,1
+% of labour force aged 25+,1,1
+% of labour force with disability,1,1
+% of labour force without disability,1,1
+% of live births,1,1
+% of male aged 15-24,2,2
+% of male aged 15-64,1,1
+% of male aged 15 and above,1,1
+% of male aged 25-54,1,1
+% of male labour force aged 15-24,1,1
+% of male labour force aged 15+,1,1
+% of male labour force aged 25+,1,1
+% of male labour force without disability,1,1
 % of male population with severe disabilities,1,1
+% of male population,1,1
+% of non-pregnant women aged 15-49,1,1
 % of population above statutory pensionable age,1,1
+% of population aged 15-24,2,2
+% of population aged 15-64,1,1
+% of population aged 15 and above,1,1
+% of population aged 25-54,1,1
 % of population with severe disabilities,1,1
-% of population,3,1
+% of population,11,7
+% of pregnant women aged 15-49,1,1
+% of rural population,4,3
+% of seats,1,1
+% of total employment,1,1
+% of total final energy consumption,1,1
+% of total manufacturing value added,1,1
+% of total renewable water per annum,1,1
 "% of unemployed population, female",1,1
 "% of unemployed population, male",1,1
 % of unemployed population,1,1
+% of urban population,5,3
 % of vulnerable female population,1,1
 % of vulnerable male population,1,1
 % of vulnerable population,1,1
+% of women of reproductive age,1,1
+Per 1 000 population at risk,1,1
+"Per 10,000 population",4,1
+"Per 100,000 population, men",8,3
+"Per 100,000 population, women",8,3
+"Per 100,000 population",27,7
+Per million inhabitants,1,1
+Percentage,22,11
+"Probability, men (%)",1,1
+"Probability, women (%)",1,1
+Probability (%),1,1
+"Ratio, total population",1,1
+"% relevant age group, female population",1,1
+"% relevant age group, male population",1,1
+"% relevant age group, total population",1,1
+Rural,2,1
+Score from 0 (better) to 10 (worse) compliance with labour rights,1,1
+Scores,2,1
+Thousand men,1,1
+Thousand people,1,1
+Thousand women,1,1
+Tons per capita,2,2
+Urban,2,1
+Watts per capita,1,1
