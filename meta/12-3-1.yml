@@ -1,0 +1,7 @@
+indicator_name: Malaria
+indicator_number: 3.3.3
+computation_units: Unit
+source_active_1: true
+source_organisation_1: SDG Global (WHO)
+source_url_1: link
+reporting_status: complete

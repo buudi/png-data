@@ -1,0 +1,7 @@
+indicator_name: Access to electricity
+indicator_number: 7.1.1
+computation_units: Unit
+source_active_1: true
+source_organisation_1: World Bank (WDI)
+source_url_1: link
+reporting_status: complete
