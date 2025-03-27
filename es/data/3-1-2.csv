@@ -1,1 +1,4 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2004,2563,Births attended by skilled health personnel,% of live births,39.0
+2006,2563,Births attended by skilled health personnel,% of live births,53.0
+2018,2563,Births attended by skilled health personnel,% of live births,56.4

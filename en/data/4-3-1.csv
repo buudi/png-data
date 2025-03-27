@@ -1,1 +1,28 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2010,6689,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 15-24,29.85375
+2022,6689,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 15-24,45.50065
+2010,6691,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 15-64,9.94141
+2022,6691,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 15-64,16.24856
+2010,6692,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 25-54,0.42996
+2022,6692,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female",% of female aged 25-54,2.16634
+2010,6701,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 15-24",0.68774
+2022,6701,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 15-24",0.815
+2010,6702,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 15-64",0.65431
+2022,6702,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 15-64",0.77144
+2010,6703,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 25-54",0.29107
+2022,6703,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, gender parity index (GPI)","Female-to-male ratio, aged 25-54",0.5192
+2010,6694,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 15-24,43.40852
+2022,6694,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 15-24,55.82888
+2010,6695,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 15-64,15.19379
+2022,6695,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 15-64,21.06261
+2010,6696,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 25-54,1.47717
+2022,6696,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male",% of male aged 25-54,4.17247
+2010,6685,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 15-24,36.78063
+2022,6685,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 15-24,50.79466
+2010,6686,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 15-64,12.60278
+2022,6686,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 15-64,18.69928
+2010,6687,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 25-54,0.95281
+2022,6687,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total",% of population aged 25-54,3.1801
+2018,1043,"Proportion of 15-24 year-olds enrolled in vocational education, both sexes",Percentage,0.4576
+2018,1040,"Proportion of 15-24 year-olds enrolled in vocational education, female",Percentage,0.41818
+2018,1042,"Proportion of 15-24 year-olds enrolled in vocational education, male",Percentage,0.49354

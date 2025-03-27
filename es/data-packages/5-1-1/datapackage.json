@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2172",
+                "2173",
+                "2174",
+                "2175",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legal framework for gender equality (percentage, scale 1 - 100)_Area 1 (legal framework and public life)",
+                "Legal framework for gender equality (percentage, scale 1 - 100)_Area 2 (violence against women)",
+                "Legal framework for gender equality (percentage, scale 1 - 100)_Area 3 (employment and economic benefits)",
+                "Legal framework for gender equality (percentage, scale 1 - 100)_Area 4 (marriage and family)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

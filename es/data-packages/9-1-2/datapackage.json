@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "325",
+                "851",
+                "2979",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Air transport freight",
+                "Air transport passengers carried",
+                "Container port traffic, maritime transport",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million ton-km",
+                "Million passenger-km",
+                "Million TEU",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

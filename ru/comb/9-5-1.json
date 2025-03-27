@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016],"Series_ID":["346"],"Series":["Gross domestic expenditure on research and development"],"Unit":["% of GDP"],"Value":[0.03158]},"edges":{"From":["Series_ID"],"To":["Unit"]}}

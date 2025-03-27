@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016],"Series_ID":["347"],"Series":["Researchers, full-time equivalents"],"Unit":["Per million inhabitants"],"Value":[33.39192]},"edges":{"From":["Series_ID"],"To":["Unit"]}}

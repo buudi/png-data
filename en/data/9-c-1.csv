@@ -1,1 +1,15 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2014,354,Population covered by at least a 3G mobile network,% of population,60.0
+2015,354,Population covered by at least a 3G mobile network,% of population,60.0
+2016,354,Population covered by at least a 3G mobile network,% of population,60.9
+2017,354,Population covered by at least a 3G mobile network,% of population,64.35
+2019,354,Population covered by at least a 3G mobile network,% of population,64.35
+2020,354,Population covered by at least a 3G mobile network,% of population,64.35
+2021,354,Population covered by at least a 3G mobile network,% of population,64.35
+2014,567,Population covered by at least a 4G mobile network,% of population,7.0
+2015,567,Population covered by at least a 4G mobile network,% of population,35.0
+2016,567,Population covered by at least a 4G mobile network,% of population,35.0
+2017,567,Population covered by at least a 4G mobile network,% of population,50.0
+2019,567,Population covered by at least a 4G mobile network,% of population,50.0
+2020,567,Population covered by at least a 4G mobile network,% of population,50.0
+2021,567,Population covered by at least a 4G mobile network,% of population,50.0

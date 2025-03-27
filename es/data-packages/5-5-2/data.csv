@@ -1,1 +1,5 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2010,922,Proportion of women in managerial positions - 13th ICLS,Percentage,18.12
+2022,922,Proportion of women in managerial positions - 13th ICLS,Percentage,19.74
+2010,937,Proportion of women in senior and middle management positions - 13th ICLS,Percentage,19.29
+2022,937,Proportion of women in senior and middle management positions - 13th ICLS,Percentage,17.74

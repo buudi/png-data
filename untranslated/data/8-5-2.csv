@@ -1,1 +1,32 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2010,1393,Unemployment rate - 13th ICLS (15+ years),% of female labour force aged 15+,1.276
+2011,1393,Unemployment rate - 13th ICLS (15+ years),% of female labour force aged 15+,1.44
+2022,1393,Unemployment rate - 13th ICLS (15+ years),% of female labour force aged 15+,2.19
+2010,5596,Unemployment rate - 13th ICLS (15+ years),% of female labour force without disability,1.35
+2022,5596,Unemployment rate - 13th ICLS (15+ years),% of female labour force without disability,2.26
+2000,1392,Unemployment rate - 13th ICLS (15+ years),% of labour force aged 15+,2.92
+2010,1392,Unemployment rate - 13th ICLS (15+ years),% of labour force aged 15+,2.002
+2011,1392,Unemployment rate - 13th ICLS (15+ years),% of labour force aged 15+,2.62
+2022,1392,Unemployment rate - 13th ICLS (15+ years),% of labour force aged 15+,2.689
+2010,5591,Unemployment rate - 13th ICLS (15+ years),% of labour force with disability,0.91
+2010,5592,Unemployment rate - 13th ICLS (15+ years),% of labour force without disability,2.09
+2022,5592,Unemployment rate - 13th ICLS (15+ years),% of labour force without disability,2.8
+2010,1394,Unemployment rate - 13th ICLS (15+ years),% of male labour force aged 15+,2.683
+2011,1394,Unemployment rate - 13th ICLS (15+ years),% of male labour force aged 15+,3.7
+2022,1394,Unemployment rate - 13th ICLS (15+ years),% of male labour force aged 15+,3.144
+2010,5594,Unemployment rate - 13th ICLS (15+ years),% of male labour force without disability,2.77
+2022,5594,Unemployment rate - 13th ICLS (15+ years),% of male labour force without disability,3.29
+2010,1390,Unemployment rate - 13th ICLS (25+ years),% of female labour force aged 25+,0.711
+2022,1390,Unemployment rate - 13th ICLS (25+ years),% of female labour force aged 25+,2.012
+2000,1389,Unemployment rate - 13th ICLS (25+ years),% of labour force aged 25+,2.05
+2010,1389,Unemployment rate - 13th ICLS (25+ years),% of labour force aged 25+,1.493
+2022,1389,Unemployment rate - 13th ICLS (25+ years),% of labour force aged 25+,2.46
+2010,1391,Unemployment rate - 13th ICLS (25+ years),% of male labour force aged 25+,2.205
+2022,1391,Unemployment rate - 13th ICLS (25+ years),% of male labour force aged 25+,2.857
+2010,1387,Youth unemployment rate- 13th ICLS (15-24 years),% of female labour force aged 15-24,2.952
+2022,1387,Youth unemployment rate- 13th ICLS (15-24 years),% of female labour force aged 15-24,2.984
+2000,1386,Youth unemployment rate- 13th ICLS (15-24 years),% of labour force aged 15-24,5.27
+2010,1386,Youth unemployment rate- 13th ICLS (15-24 years),% of labour force aged 15-24,3.612
+2022,1386,Youth unemployment rate- 13th ICLS (15-24 years),% of labour force aged 15-24,3.79
+2010,1388,Youth unemployment rate- 13th ICLS (15-24 years),% of male labour force aged 15-24,4.296
+2022,1388,Youth unemployment rate- 13th ICLS (15-24 years),% of male labour force aged 15-24,4.614

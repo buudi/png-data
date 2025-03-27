@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015],"Series_ID":["1413"],"Series":["Proportion of small-scale industries with a loan or line of credit"],"Unit":["Percentage"],"Value":[30.89587]},"edges":{"From":["Series_ID"],"To":["Unit"]}}

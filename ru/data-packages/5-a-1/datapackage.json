@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4257",
+                "3016",
+                "3020",
+                "3031",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of women among owners or rights-bearers of agricultural land",
+                "Total agricultural population with ownership or secure rights over agricultural land, by sex",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "% agricultual female population",
+                "% agricultual male population",
+                "% agricultual population",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

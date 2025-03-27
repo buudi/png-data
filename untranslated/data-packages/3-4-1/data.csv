@@ -1,1 +1,61 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2000,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),31.4
+2001,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),32.12
+2002,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),32.84
+2003,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),33.56
+2004,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),34.28
+2005,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.0
+2006,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.08
+2007,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.16
+2008,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.24
+2009,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.32
+2010,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.4
+2011,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.6
+2012,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),35.8
+2013,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.0
+2014,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.2
+2015,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.4
+2016,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.3
+2017,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.2
+2018,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.1
+2019,2623,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",Probability (%),36.0
+2000,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",36.4
+2001,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",37.04
+2002,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",37.68
+2003,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",38.32
+2004,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",38.96
+2005,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.6
+2006,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.66
+2007,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.72
+2008,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.78
+2009,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.84
+2010,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",39.9
+2011,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.08
+2012,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.26
+2013,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.44
+2014,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.62
+2015,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.8
+2016,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.675
+2017,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.55
+2018,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.425
+2019,2625,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, men (%)",40.3
+2000,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",26.4
+2001,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",27.2
+2002,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",28.0
+2003,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",28.8
+2004,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",29.6
+2005,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",30.4
+2006,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",30.52
+2007,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",30.64
+2008,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",30.76
+2009,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",30.88
+2010,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.0
+2011,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.2
+2012,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.4
+2013,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.6
+2014,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.8
+2015,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",32.0
+2016,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.9
+2017,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.8
+2018,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.7
+2019,2624,"Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases","Probability, women (%)",31.6

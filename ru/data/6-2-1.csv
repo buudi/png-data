@@ -1,1 +1,120 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2000,794,Population practicing open defecation (%),% of population,12.77065
+2001,794,Population practicing open defecation (%),% of population,12.77292
+2002,794,Population practicing open defecation (%),% of population,12.77477
+2003,794,Population practicing open defecation (%),% of population,12.77663
+2004,794,Population practicing open defecation (%),% of population,12.77859
+2005,794,Population practicing open defecation (%),% of population,12.99194
+2006,794,Population practicing open defecation (%),% of population,13.20538
+2007,794,Population practicing open defecation (%),% of population,13.4189
+2008,794,Population practicing open defecation (%),% of population,13.63251
+2009,794,Population practicing open defecation (%),% of population,13.84619
+2010,794,Population practicing open defecation (%),% of population,14.05996
+2011,794,Population practicing open defecation (%),% of population,14.27392
+2012,794,Population practicing open defecation (%),% of population,14.48786
+2013,794,Population practicing open defecation (%),% of population,14.70014
+2014,794,Population practicing open defecation (%),% of population,14.91068
+2015,794,Population practicing open defecation (%),% of population,15.11939
+2016,794,Population practicing open defecation (%),% of population,15.32616
+2017,794,Population practicing open defecation (%),% of population,15.53091
+2018,794,Population practicing open defecation (%),% of population,15.73339
+2019,794,Population practicing open defecation (%),% of population,15.93365
+2020,794,Population practicing open defecation (%),% of population,16.13159
+2021,794,Population practicing open defecation (%),% of population,16.11612
+2022,794,Population practicing open defecation (%),% of population,16.09856
+2000,795,Population practicing open defecation (%),% of rural population,14.13085
+2001,795,Population practicing open defecation (%),% of rural population,14.13085
+2002,795,Population practicing open defecation (%),% of rural population,14.13085
+2003,795,Population practicing open defecation (%),% of rural population,14.13085
+2004,795,Population practicing open defecation (%),% of rural population,14.13085
+2005,795,Population practicing open defecation (%),% of rural population,14.37215
+2006,795,Population practicing open defecation (%),% of rural population,14.61344
+2007,795,Population practicing open defecation (%),% of rural population,14.85474
+2008,795,Population practicing open defecation (%),% of rural population,15.09604
+2009,795,Population practicing open defecation (%),% of rural population,15.33734
+2010,795,Population practicing open defecation (%),% of rural population,15.57864
+2011,795,Population practicing open defecation (%),% of rural population,15.81994
+2012,795,Population practicing open defecation (%),% of rural population,16.06123
+2013,795,Population practicing open defecation (%),% of rural population,16.30253
+2014,795,Population practicing open defecation (%),% of rural population,16.54383
+2015,795,Population practicing open defecation (%),% of rural population,16.78513
+2016,795,Population practicing open defecation (%),% of rural population,17.02643
+2017,795,Population practicing open defecation (%),% of rural population,17.26772
+2018,795,Population practicing open defecation (%),% of rural population,17.50902
+2019,795,Population practicing open defecation (%),% of rural population,17.75032
+2020,795,Population practicing open defecation (%),% of rural population,17.99162
+2021,795,Population practicing open defecation (%),% of rural population,17.99162
+2022,795,Population practicing open defecation (%),% of rural population,17.99162
+2000,796,Population practicing open defecation (%),% of urban population,3.82947
+2001,796,Population practicing open defecation (%),% of urban population,3.82947
+2002,796,Population practicing open defecation (%),% of urban population,3.82947
+2003,796,Population practicing open defecation (%),% of urban population,3.82947
+2004,796,Population practicing open defecation (%),% of urban population,3.82947
+2005,796,Population practicing open defecation (%),% of urban population,3.84348
+2006,796,Population practicing open defecation (%),% of urban population,3.85749
+2007,796,Population practicing open defecation (%),% of urban population,3.8715
+2008,796,Population practicing open defecation (%),% of urban population,3.88551
+2009,796,Population practicing open defecation (%),% of urban population,3.89951
+2010,796,Population practicing open defecation (%),% of urban population,3.91352
+2011,796,Population practicing open defecation (%),% of urban population,3.92753
+2012,796,Population practicing open defecation (%),% of urban population,3.94154
+2013,796,Population practicing open defecation (%),% of urban population,3.95555
+2014,796,Population practicing open defecation (%),% of urban population,3.96956
+2015,796,Population practicing open defecation (%),% of urban population,3.98357
+2016,796,Population practicing open defecation (%),% of urban population,3.99757
+2017,796,Population practicing open defecation (%),% of urban population,4.01158
+2018,796,Population practicing open defecation (%),% of urban population,4.02559
+2019,796,Population practicing open defecation (%),% of urban population,4.0396
+2020,796,Population practicing open defecation (%),% of urban population,4.05361
+2021,796,Population practicing open defecation (%),% of urban population,4.05361
+2022,796,Population practicing open defecation (%),% of urban population,4.05361
+2000,371,Population using safely managed sanitation services,% of urban population,31.50082
+2001,371,Population using safely managed sanitation services,% of urban population,31.50082
+2002,371,Population using safely managed sanitation services,% of urban population,31.50082
+2003,371,Population using safely managed sanitation services,% of urban population,31.50082
+2004,371,Population using safely managed sanitation services,% of urban population,31.50082
+2005,371,Population using safely managed sanitation services,% of urban population,31.15715
+2006,371,Population using safely managed sanitation services,% of urban population,30.81349
+2007,371,Population using safely managed sanitation services,% of urban population,30.46982
+2008,371,Population using safely managed sanitation services,% of urban population,30.12616
+2009,371,Population using safely managed sanitation services,% of urban population,29.97525
+2010,371,Population using safely managed sanitation services,% of urban population,29.82473
+2011,371,Population using safely managed sanitation services,% of urban population,29.67458
+2012,371,Population using safely managed sanitation services,% of urban population,29.52481
+2013,371,Population using safely managed sanitation services,% of urban population,29.37543
+2014,371,Population using safely managed sanitation services,% of urban population,29.22642
+2015,371,Population using safely managed sanitation services,% of urban population,29.07779
+2016,371,Population using safely managed sanitation services,% of urban population,28.92953
+2017,371,Population using safely managed sanitation services,% of urban population,28.78166
+2018,371,Population using safely managed sanitation services,% of urban population,28.63417
+2019,371,Population using safely managed sanitation services,% of urban population,28.48705
+2020,371,Population using safely managed sanitation services,% of urban population,28.34032
+2021,371,Population using safely managed sanitation services,% of urban population,28.34032
+2022,371,Population using safely managed sanitation services,% of urban population,28.34032
+2014,797,Population with basic handwashing facilities on premises,% of population,29.63122
+2015,797,Population with basic handwashing facilities on premises,% of population,29.64028
+2016,797,Population with basic handwashing facilities on premises,% of population,29.65463
+2017,797,Population with basic handwashing facilities on premises,% of population,29.67426
+2018,797,Population with basic handwashing facilities on premises,% of population,29.69956
+2019,797,Population with basic handwashing facilities on premises,% of population,29.73014
+2020,797,Population with basic handwashing facilities on premises,% of population,29.76601
+2021,797,Population with basic handwashing facilities on premises,% of population,29.80792
+2022,797,Population with basic handwashing facilities on premises,% of population,29.8555
+2014,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2015,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2016,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2017,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2018,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2019,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2020,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2021,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2022,798,Population with basic handwashing facilities on premises,% of rural population,24.72726
+2014,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2015,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2016,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2017,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2018,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2019,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2020,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2021,799,Population with basic handwashing facilities on premises,% of urban population,62.48486
+2022,799,Population with basic handwashing facilities on premises,% of urban population,62.48486

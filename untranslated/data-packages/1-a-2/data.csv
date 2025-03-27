@@ -1,1 +1,3 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2017,2071,"Proportion of total government spending on essential services, education [UIS methodology]",Percentage,10.6982
+2018,2071,"Proportion of total government spending on essential services, education [UIS methodology]",Percentage,9.2271

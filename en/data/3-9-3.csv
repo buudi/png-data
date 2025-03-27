@@ -1,1 +1,61 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2000,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2001,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2002,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2003,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2004,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2005,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2006,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2007,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2008,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2009,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2010,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.3
+2011,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.32
+2012,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.34
+2013,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.36
+2014,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.38
+2015,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.4
+2016,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.4
+2017,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.4
+2018,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.4
+2019,2599,Mortality rate attributed to unintentional poisoning,"Per 100,000 population",1.4
+2000,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.1
+2001,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.12
+2002,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.14
+2003,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.16
+2004,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.18
+2005,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2006,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2007,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2008,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2009,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2010,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.2
+2011,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.26
+2012,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.32
+2013,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.38
+2014,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.44
+2015,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.5
+2016,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.475
+2017,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.45
+2018,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.425
+2019,2634,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, men",2.4
+2000,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.4
+2001,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.38
+2002,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.36
+2003,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.34
+2004,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.32
+2005,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2006,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2007,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2008,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2009,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2010,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2011,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2012,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2013,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2014,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2015,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2016,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2017,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2018,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3
+2019,2633,Mortality rate attributed to unintentional poisoning,"Per 100,000 population, women",0.3

@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2623",
+                "2625",
+                "2624",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Probability (%)",
+                "Probability, men (%)",
+                "Probability, women (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

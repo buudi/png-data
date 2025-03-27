@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2018],"Series_ID":["2071","2071"],"Series":["Proportion of total government spending on essential services, education [UIS methodology]","Proportion of total government spending on essential services, education [UIS methodology]"],"Unit":["Percentage","Percentage"],"Value":[10.6982,9.2271]},"edges":{"From":["Series_ID"],"To":["Unit"]}}

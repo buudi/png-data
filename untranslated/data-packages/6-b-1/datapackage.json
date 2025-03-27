@@ -12,11 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2042",
+                "2041",
+                "2044",
+                "2043",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with procedures in law or policy for participation by service users/communities in planinng program: rural drinking-water supply",
+                "Countries with procedures in law or policy for participation by service users/communities in planning program: water resources planning and management",
+                "Countries with users/communities participating in planning programs in rural drinking-water supply",
+                "Countries with users/communities participating in planning programs in water resources planning and management",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 = Clearly defined; 5 = Not clearly defined; 0 = N/A",
+                "3 = High; 2 = Moderate; 1 = Low; 0 = N/A",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

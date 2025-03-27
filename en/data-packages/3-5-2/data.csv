@@ -1,1 +1,16 @@
-Year,Value
+Year,Series_ID,Series,Unit,Value
+2000,2943,Alcohol per capita consumption,"Litres per annum, female population aged 15+",0.74479
+2005,2943,Alcohol per capita consumption,"Litres per annum, female population aged 15+",0.638
+2010,2943,Alcohol per capita consumption,"Litres per annum, female population aged 15+",0.47327
+2015,2943,Alcohol per capita consumption,"Litres per annum, female population aged 15+",0.58538
+2019,2943,Alcohol per capita consumption,"Litres per annum, female population aged 15+",0.57359
+2000,2995,Alcohol per capita consumption,"Litres per annum, male population aged 15+",3.49712
+2005,2995,Alcohol per capita consumption,"Litres per annum, male population aged 15+",3.02049
+2010,2995,Alcohol per capita consumption,"Litres per annum, male population aged 15+",2.25998
+2015,2995,Alcohol per capita consumption,"Litres per annum, male population aged 15+",2.78941
+2019,2995,Alcohol per capita consumption,"Litres per annum, male population aged 15+",2.74705
+2000,2574,Alcohol per capita consumption,"Litres per annum, population aged 15+",2.17703
+2005,2574,Alcohol per capita consumption,"Litres per annum, population aged 15+",1.87577
+2010,2574,Alcohol per capita consumption,"Litres per annum, population aged 15+",1.401
+2015,2574,Alcohol per capita consumption,"Litres per annum, population aged 15+",1.72634
+2019,2574,Alcohol per capita consumption,"Litres per annum, population aged 15+",1.69582

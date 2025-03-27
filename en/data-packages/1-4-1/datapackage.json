@@ -12,8 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2123",
+                "2125",
+                "2124",
+                "2126",
+                "2128",
+                "2127",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population using basic drinking water services",
+                "Population using basic sanitation services",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of population",
+                "% of rural population",
+                "% of urban population",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

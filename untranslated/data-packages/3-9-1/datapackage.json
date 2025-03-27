@@ -12,7 +12,65 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2629",
+                "2808",
+                "2602",
+                "4914",
+                "4916",
+                "4902",
+                "4903",
+                "4904",
+                "4905",
+                "4906",
+                "4907",
+                "4917",
+                "4918",
+                "4908",
+                "4909",
+                "4910",
+                "4911",
+                "4912",
+                "4913",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized mortality rate attributed to ambient air pollution",
+                "Age-standardized mortality rate attributed to household air pollution",
+                "Age-standardized mortality rate attributed to household and ambient air pollution",
+                "Ambient air pollution attributable death rate (WHO)",
+                "Ambient air pollution attributable death rate (WHO, age-standardized)",
+                "Crude death rate attributed to household and ambient air pollution",
+                "Household air pollution attributable death rate (WHO)",
+                "Household air pollution attributable death rate (WHO, age-standardized)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                "Number of deaths",
+                "Per 100,000 population, men",
+                "Per 100,000 population, women",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

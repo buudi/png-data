@@ -12,8 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5094",
+                "5095",
+                "5096",
+                "5097",
+                "5098",
+                "74",
+                "5100",
+                "5099",
+                "5103",
+                "5104",
+                "5105",
+                "5106",
+                "5107",
+                "73",
+                "5102",
+                "5101",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women aged 20 to 24 years who were first married or in union before age 15",
+                "Women aged 20 to 24 years who were first married or in union before age 18",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st wealth quintile (poorest)",
+                "2nd wealth quintile",
+                "3rd wealth quintile",
+                "4th wealth quintile",
+                "5th wealth quintile (richest)",
+                "Percentage",
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

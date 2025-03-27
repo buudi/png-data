@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2055",
+                "2056",
+                "2054",
+                "2053",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women who make their own informed decisions regarding contraceptive use",
+                "Women who make their own informed decisions regarding reproductive healthcare",
+                "Women who make their own informed decisions regarding sexual relations",
+                "Women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive healthcare",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of female aged 15-49",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

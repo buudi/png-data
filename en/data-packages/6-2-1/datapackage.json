@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series_ID",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "794",
+                "795",
+                "796",
+                "371",
+                "797",
+                "798",
+                "799",
+                ""
+              ]
+            },
+            "title": "Series_ID"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population practicing open defecation (%)",
+                "Population using safely managed sanitation services",
+                "Population with basic handwashing facilities on premises",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% of population",
+                "% of rural population",
+                "% of urban population",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
