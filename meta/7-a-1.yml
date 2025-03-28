@@ -1,7 +1,7 @@
-indicator_name: Government revenue by source
-indicator_number: 17.1.1
+indicator_name: Financial flows to clean energy
+indicator_number: 7.a.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (IMF)
+source_organisation_1: SDG Global (OECD, IRENA)
 source_url_1: link
 reporting_status: complete

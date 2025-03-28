@@ -1,7 +1,7 @@
-indicator_name: Local disaster risk reduction strategies
-indicator_number: 13.1.3
+indicator_name: Completion rate by educational level
+indicator_number: 4.1.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNDRR)
+source_organisation_1: SDG Global (UNESCO-UIS)
 source_url_1: link
 reporting_status: complete

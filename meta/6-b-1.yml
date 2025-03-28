@@ -1,7 +1,7 @@
-indicator_name: Businesses asked for a bribe
-indicator_number: 16.5.2
+indicator_name: Participation in water and sanitation management
+indicator_number: 6.b.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (World Bank)
+source_organisation_1: SDG Global (WHO, UNEP, OECD)
 source_url_1: link
 reporting_status: complete

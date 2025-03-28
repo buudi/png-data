@@ -1,7 +1,7 @@
-indicator_name: Medium and high-tech industry value added
-indicator_number: 9.b.1
+indicator_name: Infant and under-five mortality rate
+indicator_number: 3.2.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNIDO)
+source_organisation_1: SDG Global (UNICEF)/ UNICEF
 source_url_1: link
 reporting_status: complete

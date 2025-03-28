@@ -1,7 +1,7 @@
-indicator_name: FDI, ODA, South-South cooperation as share of domestic budget
-indicator_number: 17.3.1
+indicator_name: Real GDP per capita growth rate
+indicator_number: 8.1.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: UNCTAD/ SDG Global (OECD, UNCTAD)
+source_organisation_1: UNSD (NAMAD)
 source_url_1: link
 reporting_status: complete

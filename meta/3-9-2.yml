@@ -1,7 +1,7 @@
-indicator_name: Domestic material consumption
-indicator_number: 12.2.2
+indicator_name: Unsafe water/sanitation and lack of hygiene
+indicator_number: 3.9.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNEP)
+source_organisation_1: WHO/ SDG Global (WHO)
 source_url_1: link
 reporting_status: complete

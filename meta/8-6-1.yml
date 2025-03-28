@@ -1,7 +1,7 @@
-indicator_name: Internet users
-indicator_number: 17.8.1
+indicator_name: Youth not in education, employment or training
+indicator_number: 8.6.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (ITU)
+source_organisation_1: ILO (ILOSTAT)
 source_url_1: link
 reporting_status: complete

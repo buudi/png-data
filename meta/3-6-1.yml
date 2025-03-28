@@ -1,7 +1,7 @@
-indicator_name: Urban particulate matter
-indicator_number: 11.6.2
+indicator_name: Road traffic deaths
+indicator_number: 3.6.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (WHO)
+source_organisation_1: WHO
 source_url_1: link
 reporting_status: complete

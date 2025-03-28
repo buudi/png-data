@@ -1,7 +1,7 @@
-indicator_name: Damage to critical infrastructure and service disruptions
-indicator_number: 11.5.3
+indicator_name: Harmful use of alcohol
+indicator_number: 3.5.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNDRR)
+source_organisation_1: SDG Global (WHO)
 source_url_1: link
 reporting_status: complete

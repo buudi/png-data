@@ -1,7 +1,7 @@
-indicator_name: Financial resources to strengthen statistical capacity in developing countries
-indicator_number: 17.19.1
+indicator_name: Population covered by a mobile network
+indicator_number: 9.c.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (PARIS21)
+source_organisation_1: ITU
 source_url_1: link
 reporting_status: complete

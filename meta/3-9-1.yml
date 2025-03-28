@@ -1,7 +1,7 @@
-indicator_name: Material footprint
-indicator_number: 12.2.1
+indicator_name: Household and ambient air pollution
+indicator_number: 3.9.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: UN Environment (UNEP)
+source_organisation_1: SDG Global (WHO)/ WHO
 source_url_1: link
 reporting_status: complete

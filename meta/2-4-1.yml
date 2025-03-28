@@ -1,7 +1,7 @@
-indicator_name: Passenger and freight volumes
-indicator_number: 9.1.2
+indicator_name: Area under productive and sustainable agriculture
+indicator_number: 2.4.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (ICAO)/ SDG Global (UNECE)
+source_organisation_1: SDG Global (FAO)
 source_url_1: link
 reporting_status: complete

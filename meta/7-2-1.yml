@@ -1,7 +1,7 @@
-indicator_name: Birth registration
-indicator_number: 16.9.1
+indicator_name: Renewable energy share
+indicator_number: 7.2.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: UNICEF/ SDG Global (UNICEF)
+source_organisation_1: SDG Global (IEA, UNSD, IRENA)
 source_url_1: link
 reporting_status: complete
