@@ -1,7 +1,7 @@
-indicator_name: Tobacco use
-indicator_number: 3.a.1
+indicator_name: Mountain Green Cover Index and degraded mountain land
+indicator_number: 15.4.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (WHO)
+source_organisation_1: SDG Global (FAO)
 source_url_1: link
 reporting_status: complete

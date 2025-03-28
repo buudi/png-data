@@ -1,7 +1,7 @@
-indicator_name: Renewable energy generating capacity
-indicator_number: 7.b.1
+indicator_name: Debt service
+indicator_number: 17.4.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: IRENA
+source_organisation_1: SDG Global (World Bank)
 source_url_1: link
 reporting_status: complete

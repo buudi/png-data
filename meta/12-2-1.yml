@@ -1,7 +1,7 @@
-indicator_name: HIV infections
-indicator_number: 3.3.1
+indicator_name: Material footprint
+indicator_number: 12.2.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNAIDS)
+source_organisation_1: UN Environment (UNEP)
 source_url_1: link
 reporting_status: complete

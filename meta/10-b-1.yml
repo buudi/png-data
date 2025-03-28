@@ -1,7 +1,7 @@
-indicator_name: Anaemia in women by pregnancy status
-indicator_number: 2.2.3
+indicator_name: Total resource flows for development
+indicator_number: 10.b.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (WHO)
+source_organisation_1: UNCTAD/ OECD (CRS)
 source_url_1: link
 reporting_status: complete

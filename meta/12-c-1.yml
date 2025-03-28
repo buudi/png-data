@@ -1,7 +1,7 @@
-indicator_name: Cardiovascular disease, cancer, diabetes or chronic respiratory disease
-indicator_number: 3.4.1
+indicator_name: Fossil-fuel subsidies
+indicator_number: 12.c.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (WHO)
+source_organisation_1: SDG Global (UNEP)
 source_url_1: link
 reporting_status: complete

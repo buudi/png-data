@@ -1,7 +1,7 @@
-indicator_name: Road traffic deaths
-indicator_number: 3.6.1
+indicator_name: Greenhouse gas emissions
+indicator_number: 13.2.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: WHO
+source_organisation_1: UNFCCC
 source_url_1: link
 reporting_status: complete

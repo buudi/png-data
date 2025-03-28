@@ -1,7 +1,7 @@
-indicator_name: Malaria
-indicator_number: 3.3.3
+indicator_name: Global food loss index
+indicator_number: 12.3.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (WHO)
+source_organisation_1: SDG Global (FAO)
 source_url_1: link
 reporting_status: complete

@@ -1,7 +1,7 @@
-indicator_name: Tracking of public allocations for gender equality
-indicator_number: 5.c.1
+indicator_name: Domestic budget funded by domestic taxes
+indicator_number: 17.1.2
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UN Women, OECD, UNDP)
+source_organisation_1: SDG Global (IMF)
 source_url_1: link
 reporting_status: complete

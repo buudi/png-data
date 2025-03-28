@@ -1,7 +1,7 @@
-indicator_name: Energy intensity
-indicator_number: 7.3.1
+indicator_name: FDI, ODA, South-South cooperation as share of domestic budget
+indicator_number: 17.3.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (IEA, UNSD)
+source_organisation_1: UNCTAD/ SDG Global (OECD, UNCTAD)
 source_url_1: link
 reporting_status: complete

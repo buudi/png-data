@@ -1,7 +1,7 @@
-indicator_name: Real GDP per capita growth rate
-indicator_number: 8.1.1
+indicator_name: Investment promotion regimes for LDCs
+indicator_number: 17.5.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: UNSD (NAMAD)
+source_organisation_1: SDG Global (UNCTAD)
 source_url_1: link
 reporting_status: complete

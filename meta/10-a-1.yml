@@ -1,7 +1,7 @@
-indicator_name: Prevalence of malnutrition
-indicator_number: 2.2.2
+indicator_name: Tariff line on imports
+indicator_number: 10.a.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: SDG Global (UNICEF, WHO, World Bank)
+source_organisation_1: SDG Global (ITC, WTO, UNCTAD)
 source_url_1: link
 reporting_status: complete

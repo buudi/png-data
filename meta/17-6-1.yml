@@ -1,7 +1,7 @@
-indicator_name: Real GDP per employed person growth rate
-indicator_number: 8.2.1
+indicator_name: Fixed Internet broadband subscription by speed
+indicator_number: 17.6.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: ILO (ILOSTAT)
+source_organisation_1: ITU
 source_url_1: link
 reporting_status: complete

@@ -1,7 +1,7 @@
-indicator_name: Access to electricity
-indicator_number: 7.1.1
+indicator_name: Statistical capacity for SDG monitoring
+indicator_number: 17.18.1
 computation_units: Unit
 source_active_1: true
-source_organisation_1: World Bank (WDI)
+source_organisation_1: SDG Global (World Bank)
 source_url_1: link
 reporting_status: complete
