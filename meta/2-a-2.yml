@@ -3,5 +3,5 @@ indicator_number: 2.a.2
 computation_units: Unit
 source_active_1: true
 source_organisation_1: SDG Global (OECD)
-source_url_1: link
+source_url_1: https://unstats.un.org/sdgs/dataportal/database
 reporting_status: complete
