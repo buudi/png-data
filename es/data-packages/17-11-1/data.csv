@@ -20,9 +20,9 @@ Year,Series_ID,Series,Unit,Value
 2018,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.05383
 2019,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.05756
 2020,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.05142
-2021,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.04971
-2022,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.05825
-2023,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.05061
+2021,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.04862
+2022,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.058708
+2023,924,Developing countries’ and least developed countries’ share of global merchandise exports,% of world merchandise exports,0.053181
 2000,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.01594
 2001,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.0187
 2002,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.01
@@ -45,4 +45,5 @@ Year,Series_ID,Series,Unit,Value
 2019,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.00461
 2020,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.00188
 2021,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.00287
-2022,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.00143
+2022,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.003166
+2023,926,Developing countries’ and least developed countries’ share of global services exports,% of world services exports,0.001859

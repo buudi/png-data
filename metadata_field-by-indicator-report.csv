@@ -17,7 +17,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #10-2-1,notstarted,World Bank (WB),,,,,line
 #10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #10-4-1,complete,International Labour Organization (ILO),,,,Unit,line
-#10-4-2,notstarted,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
+#10-4-2,notstarted,"Institutional information: The World Bank is the official custodian for this indicator. This metadata documentation was developed and agreed upon by the three institutional data providers, Commitment to Equity (CEQ) Institute, OECD and The World Bank (WB).",,,,,line
 #10-5-1,notstarted,International Monetary Fund (IMF),,,,,line
 #10-6-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",,,,,line
@@ -122,7 +122,7 @@ UN Environment Programme",,,,Unit,line
 #16-5-2,complete,World Bank (WB),,,,Unit,line
 #16-6-1,complete,World Bank (WB),,,,Unit,line
 #16-6-2,notstarted,United Nations Development Programme (UNDP) ,,,,,line
-#16-7-1,complete,Inter-Parliamentary Union (IPU),,,,Unit,line
+#16-7-1,complete,UNDP Oslo Governance Centre,,,,Unit,line
 #16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
 #16-8-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",,,,,line
@@ -164,11 +164,9 @@ United Nations Development Programme (UNDP)",,,,Unit,line
 #2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,Unit,line
 #2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
 #2-2-1,complete,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)
-World Bank (WB)",,,,Unit,line
+World Health Organization (WHO)",,,,Unit,line
 #2-2-2,complete,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)
-World Bank (WB)",,,,Unit,line
+World Health Organization (WHO)",,,,Unit,line
 #2-2-3,complete,World Health Organization (WHO),,,,Unit,line
 #2-3-1,notstarted,Food and Agriculture Organization (FAO),,,,,line
 #2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
@@ -182,7 +180,7 @@ World Bank (WB)",,,,Unit,line
 #3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,Unit,line
 #3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,Unit,line
 #3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Unit,line
-#3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,,Unit,line
+#3-2-2,complete,United Nations Children&apos;s Fund (UNICEF),,,,Unit,line
 #3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,Unit,line
 #3-3-2,complete,World Health Organization (WHO),,,,Unit,line
 #3-3-3,complete,Global Malaria Programme at World Health Organization (WHO),,,,Unit,line
@@ -202,15 +200,14 @@ United Nations Population Fund (UNFPA)",,,,Unit,line
 #3-8-2,notstarted,World Health Organization (WHO) and the World Bank,,,,,line
 #3-9-1,complete,World Health Organization (WHO),,,,Unit,line
 #3-9-2,complete,World Health Organization (WHO),,,,Unit,line
-#3-9-3,complete,"World Health Organization (WHO)
- ",,,,Unit,line
+#3-9-3,complete,World Health Organization (WHO),,,,Unit,line
 #3-a-1,complete,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,Unit,line
 #3-b-1,complete,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,Unit,line
 #3-b-2,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,Unit,line
 #3-b-3,notstarted,World Health Organization (WHO),,,,,line
 #3-c-1,complete,"Health Workforce Department, World Health Organization (WHO)",,,,Unit,line
 #3-d-1,complete,World Health Organization (WHO),,,,Unit,line
-#3-d-2,notstarted,World Health Organization (WHO) ,,,,,line
+#3-d-2,notstarted,World Health Organization (WHO),,,,,line
 #4-1-1,notstarted,UNESCO Institute of Statistics (UIS),,,,,line
 #4-1-2,complete,UNESCO Institute for Statistics (UIS),,,,Unit,line
 #4-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
@@ -239,7 +236,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-3-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Unit,line
 #5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,complete,Inter-Parliamentary Union (IPU),,,,Unit,line
+#5-5-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),,,,Unit,line
 #5-5-2,complete,International Labour Organization (ILO),,,,Unit,line
 #5-6-1,complete,United Nations Population Fund (UNFPA),,,,Unit,line
 #5-6-2,notstarted,United Nations Population Fund (UNFPA),,,,,line
@@ -279,7 +276,7 @@ United Nations Statistics Division (UNSD)",,,,Unit,line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,Unit,line
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,notstarted,World Bank ,,,,,line
-#8-2-1,complete,International Labour Organization (ILO) ,,,,Unit,line
+#8-2-1,complete,International Labour Organization (ILO),,,,Unit,line
 #8-3-1,notstarted,International Labour Organization (ILO),,,,,line
 #8-4-1,complete,United Nations Environment Programme (UNEP),,,,Unit,line
 #8-4-2,complete,United Nations Environment Programme (UNEP),,,,Unit,line
@@ -292,7 +289,7 @@ International Labour Organization (ILO)",,,,,line
 #8-8-2,complete,International Labour Organization (ILO),,,,Unit,line
 #8-9-1,notstarted,World Tourism Organization (UNWTO) ,,,,,line
 #8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,Unit,line
-#8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
+#8-b-1,notstarted,International Labour Organization (ILO),,,,,line
 #9-1-1,notstarted,World Bank,,,,,line
 #9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,Unit,line
 #9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,Unit,line

@@ -22,7 +22,6 @@ Year,Series_ID,Series,Unit,Value
 2020,5411,Annual GDP growth,Percentage,-3.16738
 2021,5411,Annual GDP growth,Percentage,-0.78033
 2022,5411,Annual GDP growth,Percentage,5.16505
-2023,5411,Annual GDP growth,Percentage,3.8
 2000,5405,Annual broad money growth,Percentage,5.00896
 2001,5405,Annual broad money growth,Percentage,6.24949
 2002,5405,Annual broad money growth,Percentage,7.26424
@@ -202,6 +201,7 @@ Year,Series_ID,Series,Unit,Value
 2020,5410,"Foreign direct investment, net inflows, as a proportion of GDP",Percentage,0.47379
 2021,5410,"Foreign direct investment, net inflows, as a proportion of GDP",Percentage,-0.04102
 2022,5410,"Foreign direct investment, net inflows, as a proportion of GDP",Percentage,1.03379
+2023,5410,"Foreign direct investment, net inflows, as a proportion of GDP",Percentage,0.3
 2000,1981,"GDP growth rate (2015 US dollars, average annual)",% change per annum,-2.454315
 2001,1981,"GDP growth rate (2015 US dollars, average annual)",% change per annum,-0.0425303
 2002,1981,"GDP growth rate (2015 US dollars, average annual)",% change per annum,2.006469

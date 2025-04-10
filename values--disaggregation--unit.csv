@@ -45,7 +45,7 @@ Million TEU,1,1
 Million ton-km,1,1
 Million tons of CO2 equivalent,1,1
 Million US dollars,10,5
-Number of deaths,1,1
+Millions of United States dollars,1,1
 Number,4,4
 % of children 12 to 23 months,1,1
 % of children 24 to 35 months,1,1
@@ -73,7 +73,7 @@ Number,4,4
 % of female population,1,1
 % of forest area,1,1
 % of GDP (2015 USD),1,1
-% of GDP,7,7
+% of GDP,6,6
 % of GNI,1,1
 % of labour force aged 15-24,1,1
 % of labour force aged 15+,1,1
@@ -120,10 +120,11 @@ Number,4,4
 % of world services exports,1,1
 Per 1 000 population at risk,1,1
 Per 100 population,1,1
+"Per 1,000 population",1,1
 "Per 10,000 population",4,1
-"Per 100,000 population, men",8,3
-"Per 100,000 population, women",8,3
-"Per 100,000 population",33,10
+"Per 100,000 population, men",3,3
+"Per 100,000 population, women",3,3
+"Per 100,000 population",28,10
 Per million inhabitants,1,1
 Percentage,57,32
 "Probability, men (%)",1,1
@@ -139,9 +140,7 @@ Ratio,1,1
 Rural,3,2
 Score from 0 (better) to 10 (worse) compliance with labour rights,1,1
 Scores,2,1
-Thousand men,1,1
 Thousand people,1,1
-Thousand women,1,1
 Tons per capita,4,4
 Tons per hectare,1,1
 Total,1,1

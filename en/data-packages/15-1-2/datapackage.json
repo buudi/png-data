@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Important sites for terrestrial biodiversity",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                 ""
               ]
             },

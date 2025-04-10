@@ -1069,7 +1069,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "8-a-1/data.csv",
@@ -1413,7 +1413,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods and services"
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "17-12-1/data.csv",
@@ -1818,7 +1818,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+      "title": "Volume of official development assistance flows for scholarships"
     },
     {
       "path": "11-b-1/data.csv",
@@ -3032,7 +3032,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "13-1-3/data.csv",
@@ -3122,7 +3122,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Important sites for terrestrial biodiversity",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                 ""
               ]
             },
@@ -4864,7 +4864,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FDI inflows",
+                "Foreign direct investment (FDI) inflows",
                 "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis",
                 "Gross receipts by developing countries of official concessional sustainable development loans",
                 "Gross receipts by developing countries of official non-concessional sustainable development loans",
@@ -4880,7 +4880,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% of GDP",
+                "Millions of United States dollars",
                 "Million US dollars",
                 ""
               ]
@@ -5792,8 +5792,6 @@
                 "2598",
                 "4925",
                 "4924",
-                "7916",
-                "7915",
                 "7389",
                 ""
               ]
@@ -5820,8 +5818,6 @@
                 "Per 100,000 population",
                 "Per 100,000 population, men",
                 "Per 100,000 population, women",
-                "Thousand men",
-                "Thousand women",
                 ""
               ]
             },
@@ -6391,7 +6387,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "3-3-1/data.csv",
@@ -6460,6 +6456,7 @@
             "constraints": {
               "enum": [
                 "Per 100,000 population",
+                "Per 1,000 population",
                 ""
               ]
             },
@@ -6467,7 +6464,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7273,24 +7270,9 @@
             "constraints": {
               "enum": [
                 "2629",
-                "2808",
                 "2602",
                 "4914",
                 "4916",
-                "4902",
-                "4903",
-                "4904",
-                "4905",
-                "4906",
-                "4907",
-                "4917",
-                "4918",
-                "4908",
-                "4909",
-                "4910",
-                "4911",
-                "4912",
-                "4913",
                 ""
               ]
             },
@@ -7304,11 +7286,6 @@
                 "Age-standardized mortality rate attributed to ambient air pollution",
                 "Age-standardized mortality rate attributed to household air pollution",
                 "Age-standardized mortality rate attributed to household and ambient air pollution",
-                "Ambient air pollution attributable death rate (WHO)",
-                "Ambient air pollution attributable death rate (WHO, age-standardized)",
-                "Crude death rate attributed to household and ambient air pollution",
-                "Household air pollution attributable death rate (WHO)",
-                "Household air pollution attributable death rate (WHO, age-standardized)",
                 ""
               ]
             },
@@ -7320,7 +7297,6 @@
             "constraints": {
               "enum": [
                 "Per 100,000 population",
-                "Number of deaths",
                 "Per 100,000 population, men",
                 "Per 100,000 population, women",
                 ""
@@ -8313,7 +8289,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dollar value of official development assistance committed to developing countries"
     },
     {
       "path": "10-7-2/data.csv",
@@ -9426,7 +9402,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries in total industry value added"
+      "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
     },
     {
       "path": "16-b-1/data.csv",
@@ -9498,7 +9474,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "Redistributive impact of fiscal policy on the Gini index"
     },
     {
       "path": "10-5-1/data.csv",
@@ -9642,7 +9618,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "16-4-1/data.csv",
@@ -10074,7 +10050,7 @@
           }
         ]
       },
-      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+      "title": "Youth/adult literacy rate"
     },
     {
       "path": "16-10-1/data.csv",
@@ -10818,7 +10794,7 @@
           }
         ]
       },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+      "title": "Health product access index"
     },
     {
       "path": "8-b-1/data.csv",

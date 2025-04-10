@@ -22,6 +22,7 @@ Year,Series_ID,Series,Unit,Value
 2020,582,Domestic material consumption intensity,Kg per 1 USD (2015) GDP,2.82514
 2021,582,Domestic material consumption intensity,Kg per 1 USD (2015) GDP,2.91565
 2022,582,Domestic material consumption intensity,Kg per 1 USD (2015) GDP,2.82182
+2023,582,Domestic material consumption intensity,Kg per 1 USD (2015) GDP,2.81307
 2000,3150,"Domestic material consumption, total",Tons per capita,13.60214
 2001,3150,"Domestic material consumption, total",Tons per capita,15.12813
 2002,3150,"Domestic material consumption, total",Tons per capita,12.05056
@@ -45,3 +46,4 @@ Year,Series_ID,Series,Unit,Value
 2020,3150,"Domestic material consumption, total",Tons per capita,6.93612
 2021,3150,"Domestic material consumption, total",Tons per capita,6.95984
 2022,3150,"Domestic material consumption, total",Tons per capita,6.94886
+2023,3150,"Domestic material consumption, total",Tons per capita,6.98405

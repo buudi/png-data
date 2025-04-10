@@ -36,7 +36,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FDI inflows",
+                "Foreign direct investment (FDI) inflows",
                 "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis",
                 "Gross receipts by developing countries of official concessional sustainable development loans",
                 "Gross receipts by developing countries of official non-concessional sustainable development loans",
@@ -52,7 +52,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% of GDP",
+                "Millions of United States dollars",
                 "Million US dollars",
                 ""
               ]
