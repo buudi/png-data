@@ -61,16 +61,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6100",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -111,16 +101,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "409",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -255,16 +235,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "910",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -438,16 +408,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4251",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -488,16 +448,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "462",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -715,16 +665,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "929",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -767,16 +707,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3852",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -817,16 +747,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2949",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -1082,16 +1002,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "317",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1132,17 +1042,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2093",
-                "2094",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -1188,16 +1087,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "871",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1240,16 +1129,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2085",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1290,16 +1169,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "853",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -1472,16 +1341,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1170",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1522,16 +1381,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "520",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -1636,16 +1485,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5360",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1730,20 +1569,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "860",
-                "1418",
-                "861",
-                "862",
-                "3816",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1790,18 +1615,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2783",
-                "3088",
-                "5585",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -1894,16 +1707,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "927",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1986,16 +1789,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "872",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -2084,20 +1877,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "869",
-                "1419",
-                "868",
-                "867",
-                "870",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -2189,16 +1968,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2700",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2239,17 +2008,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7280",
-                "7219",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -2381,16 +2139,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "361",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2475,16 +2223,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1173",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2525,16 +2263,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "363",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -2619,31 +2347,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5083",
-                "5084",
-                "5085",
-                "5086",
-                "5087",
-                "5089",
-                "5088",
-                "5091",
-                "5093",
-                "5090",
-                "5506",
-                "5507",
-                "5505",
-                "5508",
-                "4232",
-                "2698",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -2830,16 +2533,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "910",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2933,30 +2626,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5411",
-                "5405",
-                "5415",
-                "5404",
-                "5406",
-                "5435",
-                "5407",
-                "5436",
-                "5409",
-                "5410",
-                "1981",
-                "5416",
-                "5418",
-                "5419",
-                "5420",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3016,17 +2685,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2101",
-                "2108",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -3215,20 +2873,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7928",
-                "7929",
-                "7930",
-                "7931",
-                "7932",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3403,16 +3047,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4014",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3582,16 +3216,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1895",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -3848,17 +3472,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1159",
-                "1175",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3900,21 +3513,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "395",
-                "7247",
-                "7245",
-                "7246",
-                "7244",
-                "7248",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -3965,16 +3563,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6726",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4015,16 +3603,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2537",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -4069,16 +3647,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1170",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4121,16 +3689,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2169",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4171,16 +3729,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3918",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -4265,16 +3813,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2115",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -4454,17 +3992,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1159",
-                "1175",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4506,16 +4033,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1839",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -4965,16 +4482,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2088",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5101,17 +4608,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "396",
-                "537",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5210,16 +4706,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "892",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5262,16 +4748,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "33",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5312,17 +4788,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "924",
-                "926",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -5411,16 +4876,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2057",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -5594,18 +5049,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7492",
-                "7491",
-                "7882",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -5872,16 +5315,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "337",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5922,17 +5355,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3545",
-                "4540",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -5977,16 +5399,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1382",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -6071,16 +5483,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7940",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -6210,16 +5612,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "349",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6302,16 +5694,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2087",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -6398,16 +5780,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "913",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6492,16 +5864,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "316",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6542,16 +5904,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "435",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -6640,16 +5992,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "358",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6690,16 +6032,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2957",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -6876,16 +6208,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1417",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6926,17 +6248,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "582",
-                "3150",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",
@@ -7065,16 +6376,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1173",
-                ""
-              ]
-            }
           },
           {
             "name": "Series",

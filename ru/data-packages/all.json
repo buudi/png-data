@@ -66,17 +66,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6100",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -121,17 +110,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "409",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -278,17 +256,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "910",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -478,17 +445,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4251",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -533,17 +489,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "462",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -781,17 +726,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "929",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -838,17 +772,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3852",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -893,17 +816,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2949",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -1183,17 +1095,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "317",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1238,18 +1139,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2093",
-                "2094",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -1299,17 +1188,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "871",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1356,17 +1234,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2085",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1411,17 +1278,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "853",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -1610,17 +1466,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1170",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1665,17 +1510,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "520",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -1788,17 +1622,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5360",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1891,21 +1714,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "860",
-                "1418",
-                "861",
-                "862",
-                "3816",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1956,19 +1764,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2783",
-                "3088",
-                "5585",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -2069,17 +1864,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "927",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2170,17 +1954,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "872",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -2277,21 +2050,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "869",
-                "1419",
-                "868",
-                "867",
-                "870",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -2391,17 +2149,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2700",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2446,18 +2193,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7280",
-                "7219",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -2601,17 +2336,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "361",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2704,17 +2428,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1173",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -2759,17 +2472,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "363",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -2862,32 +2564,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5083",
-                "5084",
-                "5085",
-                "5086",
-                "5087",
-                "5089",
-                "5088",
-                "5091",
-                "5093",
-                "5090",
-                "5506",
-                "5507",
-                "5505",
-                "5508",
-                "4232",
-                "2698",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -3090,17 +2766,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "910",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3202,31 +2867,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5411",
-                "5405",
-                "5415",
-                "5404",
-                "5406",
-                "5435",
-                "5407",
-                "5436",
-                "5409",
-                "5410",
-                "1981",
-                "5416",
-                "5418",
-                "5419",
-                "5420",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3290,18 +2930,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2101",
-                "2108",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -3506,21 +3134,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7928",
-                "7929",
-                "7930",
-                "7931",
-                "7932",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3711,17 +3324,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4014",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -3907,17 +3509,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1895",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -4198,18 +3789,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1159",
-                "1175",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4255,22 +3834,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "395",
-                "7247",
-                "7245",
-                "7246",
-                "7244",
-                "7248",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -4325,17 +3888,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6726",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4380,17 +3932,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2537",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -4439,17 +3980,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1170",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4496,17 +4026,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2169",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4551,17 +4070,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3918",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -4654,17 +4162,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2115",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -4860,18 +4357,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1159",
-                "1175",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4917,17 +4402,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1839",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -5417,17 +4891,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2088",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5566,18 +5029,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "396",
-                "537",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5684,17 +5135,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "892",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5741,17 +5181,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "33",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -5796,18 +5225,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "924",
-                "926",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -5904,17 +5321,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2057",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6104,19 +5510,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7492",
-                "7491",
-                "7882",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6407,17 +5800,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "337",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6462,18 +5844,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3545",
-                "4540",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6522,17 +5892,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1382",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6625,17 +5984,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "7940",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6777,17 +6125,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "349",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -6878,17 +6215,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2087",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -6983,17 +6309,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "913",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -7086,17 +6401,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "316",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -7141,17 +6445,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "435",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -7248,17 +6541,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "358",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -7303,17 +6585,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2957",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -7506,17 +6777,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1417",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -7561,18 +6821,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "582",
-                "3150",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",
@@ -7713,17 +6961,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Год"
-          },
-          {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1173",
-                ""
-              ]
-            },
-            "title": "Series_ID"
           },
           {
             "name": "Series",

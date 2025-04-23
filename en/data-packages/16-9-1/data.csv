@@ -1,17 +1,17 @@
-Year,Series_ID,Series,Unit,Value
-2018,5083,Children under 5 whose births have been registered (%)(UNICEF),1st wealth quintile (poorest),9.3
-2018,5084,Children under 5 whose births have been registered (%)(UNICEF),2nd wealth quintile,9.7
-2018,5085,Children under 5 whose births have been registered (%)(UNICEF),3rd wealth quintile,12.1
-2018,5086,Children under 5 whose births have been registered (%)(UNICEF),4th wealth quintile,13.4
-2018,5087,Children under 5 whose births have been registered (%)(UNICEF),5th wealth quintile (richest),24.2
-2018,5089,Children under 5 whose births have been registered (%)(UNICEF),Female,13.6
-2018,5088,Children under 5 whose births have been registered (%)(UNICEF),Male,13.3
-2018,5091,Children under 5 whose births have been registered (%)(UNICEF),Rural,12.1
-2018,5093,Children under 5 whose births have been registered (%)(UNICEF),Total,13.4
-2018,5090,Children under 5 whose births have been registered (%)(UNICEF),Urban,24.9
-2018,5506,Children under 5 whose births have been registered with a civil authority,% of children 12 to 23 months,13.1
-2018,5507,Children under 5 whose births have been registered with a civil authority,% of children 24 to 35 months,13.5
-2018,5505,Children under 5 whose births have been registered with a civil authority,% of children 36 to 47 months,13.5
-2018,5508,Children under 5 whose births have been registered with a civil authority,% of children 48 to 59 months,14.3
-2018,4232,Children under 5 whose births have been registered with a civil authority,% of children under 1,12.6
-2018,2698,Children under 5 whose births have been registered with a civil authority,% of children under 5,13.4
+Year,Series,Unit,Value
+2018,Children under 5 whose births have been registered (%)(UNICEF),1st wealth quintile (poorest),9.3
+2018,Children under 5 whose births have been registered (%)(UNICEF),2nd wealth quintile,9.7
+2018,Children under 5 whose births have been registered (%)(UNICEF),3rd wealth quintile,12.1
+2018,Children under 5 whose births have been registered (%)(UNICEF),4th wealth quintile,13.4
+2018,Children under 5 whose births have been registered (%)(UNICEF),5th wealth quintile (richest),24.2
+2018,Children under 5 whose births have been registered (%)(UNICEF),Female,13.6
+2018,Children under 5 whose births have been registered (%)(UNICEF),Male,13.3
+2018,Children under 5 whose births have been registered (%)(UNICEF),Rural,12.1
+2018,Children under 5 whose births have been registered (%)(UNICEF),Total,13.4
+2018,Children under 5 whose births have been registered (%)(UNICEF),Urban,24.9
+2018,Children under 5 whose births have been registered with a civil authority,% of children 12 to 23 months,13.1
+2018,Children under 5 whose births have been registered with a civil authority,% of children 24 to 35 months,13.5
+2018,Children under 5 whose births have been registered with a civil authority,% of children 36 to 47 months,13.5
+2018,Children under 5 whose births have been registered with a civil authority,% of children 48 to 59 months,14.3
+2018,Children under 5 whose births have been registered with a civil authority,% of children under 1,12.6
+2018,Children under 5 whose births have been registered with a civil authority,% of children under 5,13.4

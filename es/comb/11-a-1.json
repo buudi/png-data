@@ -1,1 +1,1 @@
-{"data":{"Year":[2020],"Series_ID":["4251"],"Series":["National urban policies/regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space"],"Unit":["Yes (1)/No (0)"],"Value":[1]},"edges":{"From":["Series_ID"],"To":["Unit"]}}
+{"data":{"Year":[2020],"Series":["National urban policies/regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space"],"Unit":["Yes (1)/No (0)"],"Value":[1]},"edges":[]}
