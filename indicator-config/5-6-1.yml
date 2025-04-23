@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,16 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Women who make their own informed decisions regarding contraceptive use"
+    unit: "% of female aged 15-49"
+    value: 100
+  - series: "Women who make their own informed decisions regarding reproductive healthcare"
+    unit: "% of female aged 15-49"
+    value: 100
+  - series: "Women who make their own informed decisions regarding sexual relations"
+    unit: "% of female aged 15-49"
+    value: 100
+  - series: "Women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive healthcare"
+    unit: "% of female aged 15-49"
+    value: 100

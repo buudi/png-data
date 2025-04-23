@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-9-1-title
+graph_title: global_indicators.4-2-2-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-9-1-title
-indicator_number: '3.9.1'
+indicator_name: global_indicators.4-2-2-title
+indicator_number: '4.2.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), female"
+    unit: "Percentage"
+    value: 100
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), male"
+    unit: "Percentage"
+    value: 100
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), total"
+    unit: "Percentage"
+    value: 100

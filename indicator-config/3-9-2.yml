@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-9-2-title
+graph_title: global_indicators.4-3-1-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-9-2-title
-indicator_number: '3.9.2'
+indicator_name: global_indicators.4-3-1-title
+indicator_number: '4.3.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -30,3 +30,31 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female"
+    unit: "% of female aged 15-24"
+    value: 49.1
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female"
+    unit: "% of female aged 15-64"
+    value: 17
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, female"
+    unit: "% of female aged 25-54"
+    value: 1.6
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male"
+    unit: "% of male aged 15-24"
+    value: 65.6
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male"
+    unit: "% of male aged 15-64"
+    value: 23.8
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, male"
+    unit: "% of male aged 25-54"
+    value: 3.5
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total"
+    unit: "% of population aged 15-24"
+    value: 57.5
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total"
+    unit: "% of population aged 15-64"
+    value: 20.4
+  - series: "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, total"
+    unit: "% of population aged 25-54"
+    value: 4.293135

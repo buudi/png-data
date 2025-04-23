@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,16 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Dentistry personel density"
+    unit: "Per 10,000 population"
+    value: 0.6
+  - series: "Nursing and midwifery personnel density"
+    unit: "Per 10,000 population"
+    value: 11.3
+  - series: "Pharmaceutical personnel density"
+    unit: "Per 10,000 population"
+    value: 1.9
+  - series: "Physicians density"
+    unit: "Per 10,000 population"
+    value: 1.8

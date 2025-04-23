@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases"
+    unit: "Probability (%)"
+    value: 20.6000103
+  - series: "Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases"
+    unit: "Probability, men (%)"
+    value: 20.666677
+  - series: "Mortality rate attributed to cardiovascular disease, cancer, diabetes, or chronic respiratory diseases"
+    unit: "Probability, women (%)"
+    value: 20.5333436

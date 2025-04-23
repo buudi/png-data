@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,43 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "New HIV infections, aged 0-14"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-24"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-24, men"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-24, women"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-49"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-49, men"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 15-49, women"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 50+"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 50+, men"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, aged 50+, women"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, all ages"
+    unit: "Per 1,000 population"
+    value: 0
+  - series: "New HIV infections, all ages, men"
+    unit: "Per 100,000 population"
+    value: 0
+  - series: "New HIV infections, all ages, women"
+    unit: "Per 100,000 population"
+    value: 0

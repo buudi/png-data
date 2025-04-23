@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Access to electricity (SDG)"
+    unit: "% of population"
+    value: 100
+  - series: "Access to electricity (SDG)"
+    unit: "% of rural population"
+    value: 100
+  - series: "Access to electricity (SDG)"
+    unit: "% of urban population"
+    value: 100

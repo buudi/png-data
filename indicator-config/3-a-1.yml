@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Prevalence of current tobacco use"
+    unit: "% of female aged 15 and above"
+    value: 8.4
+  - series: "Prevalence of current tobacco use"
+    unit: "% of male aged 15 and above"
+    value: 36.2
+  - series: "Prevalence of current tobacco use"
+    unit: "% of population aged 15 and above"
+    value: 25.3

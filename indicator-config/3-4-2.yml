@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Suicide, both sexes"
+    unit: "Per 100,000 population"
+    value: 0.970343740214172
+  - series: "Suicide, female"
+    unit: "Per 100,000 population"
+    value: 0.670161215236227
+  - series: "Suicide, male"
+    unit: "Per 100,000 population"
+    value: 1.31704104117414

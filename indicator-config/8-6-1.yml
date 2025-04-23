@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Not in Employment, Education, Training (NEET)"
+    unit: "% of female aged 15-24"
+    value: 23.2
+  - series: "Not in Employment, Education, Training (NEET)"
+    unit: "% of male aged 15-24"
+    value: 18.8
+  - series: "Not in Employment, Education, Training (NEET)"
+    unit: "% of population aged 15-24"
+    value: 20.96

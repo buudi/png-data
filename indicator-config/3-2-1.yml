@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,37 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Infant mortality rate"
+    unit: "Deaths per 1 000 live births, boys"
+    value: 17.5
+  - series: "Infant mortality rate"
+    unit: "Deaths per 1 000 live births, girls"
+    value: 15
+  - series: "Infant mortality rate"
+    unit: "Deaths per 1,000 live births"
+    value: 16.3
+  - series: "Under-five mortality, deaths per 1,000 live births (wealth quintile)"
+    unit: "1st wealth quintile (poorest)"
+    value: 25
+  - series: "Under-five mortality, deaths per 1,000 live births (wealth quintile)"
+    unit: "2nd wealth quintile"
+    value: 25
+  - series: "Under-five mortality, deaths per 1,000 live births (wealth quintile)"
+    unit: "3rd wealth quintile"
+    value: 25
+  - series: "Under-five mortality, deaths per 1,000 live births (wealth quintile)"
+    unit: "4th wealth quintile"
+    value: 25
+  - series: "Under-five mortality, deaths per 1,000 live births (wealth quintile)"
+    unit: "5th wealth quintile (richest)"
+    value: 25
+  - series: "Under-five mortality, rate"
+    unit: "Deaths per 1 000 live births, boys"
+    value: 25
+  - series: "Under-five mortality, rate"
+    unit: "Deaths per 1 000 live births, girls"
+    value: 25
+  - series: "Under-five mortality, rate"
+    unit: "Deaths per 1,000 live births"
+    value: 25

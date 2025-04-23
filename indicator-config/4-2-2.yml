@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,13 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), female"
+    unit: "Percentage"
+    value: 100
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), male"
+    unit: "Percentage"
+    value: 100
+  - series: "Adjusted net enrolment rate (one year before the official primary entry age), total"
+    unit: "Percentage"
+    value: 100
