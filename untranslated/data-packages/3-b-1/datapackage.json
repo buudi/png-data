@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2644",
-                "2646",
-                "2645",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

@@ -16,20 +16,6 @@
             "title": "Год"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2629",
-                "2602",
-                "4914",
-                "4916",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

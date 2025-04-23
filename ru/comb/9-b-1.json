@@ -1,1 +1,1 @@
-{"data":{"Year":[2000],"Series_ID":["7747"],"Series":["Medium and high-tech industry value added (ISIC3_D)"],"Unit":["% of total manufacturing value added"],"Value":[12.61]},"edges":{"From":["Series_ID"],"To":["Unit"]}}
+{"data":{"Year":[2000],"Series":["Medium and high-tech industry value added (ISIC3_D)"],"Unit":["% of total manufacturing value added"],"Value":[12.61]},"edges":[]}

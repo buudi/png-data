@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "460",
-                "461",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

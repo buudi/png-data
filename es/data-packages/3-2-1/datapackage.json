@@ -16,27 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series_ID",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2663",
-                "2664",
-                "2595",
-                "4983",
-                "4984",
-                "4985",
-                "4986",
-                "4987",
-                "2683",
-                "2684",
-                "2558",
-                ""
-              ]
-            },
-            "title": "Series_ID"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
