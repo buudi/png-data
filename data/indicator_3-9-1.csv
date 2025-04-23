@@ -1,5 +1,5 @@
-"Year","Series_ID","Series","Unit","Value"
-"2019",2629,"Age-standardized mortality rate attributed to ambient air pollution","Per 100,000 population",38
-"2019",2602,"Age-standardized mortality rate attributed to household air pollution","Per 100,000 population",166
-"2019",4914,"Age-standardized mortality rate attributed to household and ambient air pollution","Per 100,000 population, men",212.47144
-"2019",4916,"Age-standardized mortality rate attributed to household and ambient air pollution","Per 100,000 population, women",167.7406
+"Year","Series","Unit","Value"
+"2019","Age-standardized mortality rate attributed to ambient air pollution","Per 100,000 population",38
+"2019","Age-standardized mortality rate attributed to household air pollution","Per 100,000 population",166
+"2019","Age-standardized mortality rate attributed to household and ambient air pollution","Per 100,000 population, men",212.47144
+"2019","Age-standardized mortality rate attributed to household and ambient air pollution","Per 100,000 population, women",167.7406
