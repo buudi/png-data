@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,19 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA), contracting party"
+    unit: "Yes (1)/No (0)"
+    value: 1
+  - series: "Leg., admin./policy framework reported through Online Reporting Sys. on Compliance of the Int. Treaty on Plant Genetic Resources for Food&Agriculture"
+    unit: "Yes (1)/No (0)"
+    value: 1
+  - series: "Legislative, administrative and policy framework reported to the Access and Benefit-Sharing Clearing-House"
+    unit: "Yes (1)/No (0)"
+    value: 1
+  - series: "Nagoya Protocol, country party"
+    unit: "Yes (1)/No (0)"
+    value: 1
+  - series: "Reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country"
+    unit: "Number"
+    value: 42

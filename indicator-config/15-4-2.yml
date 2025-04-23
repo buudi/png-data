@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,10 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Mountain green cover index, Total - Land cover: Mountain Green Cover Index (MGCI)"
+    unit: "Percentage"
+    value: 100
+  - series: "Proportion of degraded mountain land, Total"
+    unit: "Percentage"
+    value: 0

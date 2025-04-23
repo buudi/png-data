@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -30,3 +30,7 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Progress in multi-stakeholder development effectiveness monitoring framework in support of SDGs, recipients"
+    unit: "Yes (1)/No (0)"
+    value: 1

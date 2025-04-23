@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-5-1-title
+graph_title: global_indicators.16-6-1-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.16-5-1-title
-indicator_number: '16.5.1'
+indicator_name: global_indicators.16-6-1-title
+indicator_number: '16.6.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -30,3 +30,7 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+graph_target_lines:
+  - series: "Primary government expenditures as share of original approved budget"
+    unit: "Percentage"
+    value: 100
